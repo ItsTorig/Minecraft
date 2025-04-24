@@ -1398,3 +1398,273 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 03:10:44.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5428ms or 108 ticks behind
 [24Apr2025 03:10:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Crops of the Wild]
 [24Apr2025 03:11:04.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4542ms or 90 ticks behind
+[24Apr2025 03:11:25.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5757ms or 115 ticks behind
+[24Apr2025 03:11:45.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5569ms or 111 ticks behind
+[24Apr2025 03:11:53.752] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24Apr2025 03:11:58.488] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[24Apr2025 03:11:58.489] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[24Apr2025 03:11:58.489] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[24Apr2025 03:11:58.489] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[24Apr2025 03:11:58.489] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[24Apr2025 03:12:06.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[24Apr2025 03:12:19.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: o8h_msmc_jw5[/127.252.14.89:50665] logged in with entity id 16975 at (-3.5, 64.0, -7.5)
+[24Apr2025 03:12:19.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 joined the game
+[24Apr2025 03:12:19.704] [Server thread/INFO] [Jade/]: Syncing config to o8h_msmc_jw5 (10a2ac05-4ae4-311a-a25b-966195179878)
+[24Apr2025 03:12:21.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of o8h_msmc_jw5 (18)
+[24Apr2025 03:12:21.521] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to o8h_msmc_jw5
+[24Apr2025 03:12:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> q mrd tiene ese nick
+[24Apr2025 03:12:29.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7887ms or 157 ticks behind
+[24Apr2025 03:12:30.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> xd
+[24Apr2025 03:12:31.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> xd
+[24Apr2025 03:12:31.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10a2ac05-4ae4-311a-a25b-966195179878
+[24Apr2025 03:12:32.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10a2ac05-4ae4-311a-a25b-966195179878
+[24Apr2025 03:12:32.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player o8h_msmc_jw5 (10a2ac05-4ae4-311a-a25b-966195179878) successfully connected to voice chat
+[24Apr2025 03:12:34.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> confirmo
+[24Apr2025 03:12:53.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8928ms or 178 ticks behind
+[24Apr2025 03:13:04.487] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24Apr2025 03:13:18.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10012ms or 200 ticks behind
+[24Apr2025 03:13:32.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Not a Diamond]
+[24Apr2025 03:13:44.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11300ms or 226 ticks behind
+[24Apr2025 03:13:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [Crawling in my Bark]
+[24Apr2025 03:13:48.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:13:49.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:13:49.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:13:51.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:13:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Reloading!]
+[24Apr2025 03:13:52.866] [Server thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 5 ms
+[24Apr2025 03:13:52.870] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[24Apr2025 03:13:52.872] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Apr2025 03:13:53.078] [Worker-ResourceReload-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag wither_rework:wither_target_blacklist as it is missing following references: #minecraft:aquatic (from withering-heights-alpha-1.jar), 
+	#minecraft:wither_friends (from withering-heights-alpha-1.jar)
+[24Apr2025 03:13:53.234] [Worker-ResourceReload-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[24Apr2025 03:13:54.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 6.300850033109995,0.2522033402537289,-7.828029102038727
+[24Apr2025 03:13:54.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 6.359078663455236,0.669187065631661,-7.809823050342175
+[24Apr2025 03:13:55.035] [Worker-ResourceReload-1/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 26.7883 ms
+[24Apr2025 03:13:55.088] [Worker-ResourceReload-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:naturalist:entities/tortoise
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:turtle_scute'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23374!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23374!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[24Apr2025 03:13:55.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 6.302610694655996,0.0,-7.783683226390963
+[24Apr2025 03:13:55.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 6.332286849666303,0.0,-7.812918005022425
+[24Apr2025 03:13:57.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.223] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:aquamirae:entities/maw_random_item}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[24Apr2025 03:13:58.224] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[24Apr2025 03:13:58.235] [Server thread/INFO] [placebo/]: Registered 34 additional loot tables.
+[24Apr2025 03:13:58.511] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe selfexpression:akoo_ls_trouserscraft: com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+[24Apr2025 03:13:58.552] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[24Apr2025 03:13:58.687] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[24Apr2025 03:13:58.698] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[24Apr2025 03:13:58.699] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe selfexpression:akoo_ls_jakcetcraft: com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+[24Apr2025 03:13:58.723] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[24Apr2025 03:13:58.805] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe selfexpression:akoo_ls_capcraft: com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+[24Apr2025 03:13:58.907] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 72 recipes
+[24Apr2025 03:13:58.908] [Server thread/WARN] [com.recipeessentials.RecipeEssentials/]: Recipe without matching ID:apotheosis:potion_charm_enchanting
+[24Apr2025 03:13:58.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:13:58.926] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/impact
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown selector type '@n' at position 58: ...osion by @<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown selector type '@n' at position 58: ...osion by @<--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[24Apr2025 03:13:58.927] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function wither_rework:wither/attack/0/projectile/rotation
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 56: ...oat 1 run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 56: ...oat 1 run <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[24Apr2025 03:13:58.928] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function wither_rework:wither/attack/2/phase_2/projectile/effect/trajectory
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected ' ' at position 30: ...transition<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected ' ' at position 30: ...transition<--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[24Apr2025 03:13:59.035] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7532 advancements
+[24Apr2025 03:13:59.045] [Server thread/INFO] [placebo/]: Registered 26 additional recipes.
+[24Apr2025 03:13:59.104] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 20 curio slots
+[24Apr2025 03:13:59.121] [Server thread/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[24Apr2025 03:13:59.121] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
+[24Apr2025 03:13:59.131] [Server thread/INFO] [rechiseled/]: Loaded 79 chiseling recipes
+[24Apr2025 03:13:59.132] [Server thread/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 0.291003 ms
+[24Apr2025 03:13:59.184] [Server thread/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 134 dynamic modifiers and 4 modifier redirects in 6.565074 ms
+[24Apr2025 03:13:59.199] [Server thread/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 40 modifier tags for 138 modifiers in 15.149253 ms
+[24Apr2025 03:13:59.199] [Server thread/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.41842 ms
+[24Apr2025 03:13:59.202] [Server thread/INFO] [tconstruct/]: Loaded 46 spilling fluids in 1.280278 ms
+[24Apr2025 03:13:59.202] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[24Apr2025 03:13:59.202] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[24Apr2025 03:13:59.202] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[24Apr2025 03:13:59.202] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[24Apr2025 03:13:59.202] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[24Apr2025 03:13:59.203] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[24Apr2025 03:13:59.203] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[24Apr2025 03:13:59.203] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[24Apr2025 03:13:59.203] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[24Apr2025 03:13:59.203] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[24Apr2025 03:13:59.205] [Server thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[24Apr2025 03:13:59.207] [Server thread/INFO] [Apotheosis : Enchantment/]: Registered 34 enchanting_stats.
+[24Apr2025 03:13:59.207] [Server thread/INFO] [botania/]: Loaded 30 Loonium configurations
+[24Apr2025 03:13:59.209] [Server thread/INFO] [placebo/]: Registered 16 gear_sets.
+[24Apr2025 03:13:59.210] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[24Apr2025 03:13:59.217] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 97 affixes.
+[24Apr2025 03:13:59.218] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:rare for category curios:spellbookRequired: 2; Provided: 0
+[24Apr2025 03:13:59.218] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:epic for category curios:spellbookRequired: 2; Provided: 0
+[24Apr2025 03:13:59.218] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[24Apr2025 03:13:59.219] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[24Apr2025 03:13:59.219] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category curios:spellbookRequired: 3; Provided: 0
+[24Apr2025 03:13:59.219] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[24Apr2025 03:13:59.219] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[24Apr2025 03:13:59.219] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[24Apr2025 03:13:59.219] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[24Apr2025 03:13:59.220] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[24Apr2025 03:13:59.220] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[24Apr2025 03:13:59.220] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category curios:spellbookRequired: 4; Provided: 0
+[24Apr2025 03:13:59.227] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 32 gems.
+[24Apr2025 03:13:59.230] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
+[24Apr2025 03:13:59.234] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 18 bosses.
+[24Apr2025 03:13:59.236] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[24Apr2025 03:13:59.237] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[24Apr2025 03:13:59.238] [Server thread/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
+[24Apr2025 03:13:59.240] [Server thread/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 49 materials in 1.243399 ms
+[24Apr2025 03:13:59.254] [Server thread/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 14.218387 ms
+[24Apr2025 03:13:59.271] [Server thread/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 358 stats loaded for 60 materials in 16.078217 ms
+[24Apr2025 03:13:59.290] [Server thread/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 185 traits loaded for 60 materials in 17.457235 ms
+[24Apr2025 03:13:59.294] [Server thread/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 3.971527 ms
+[24Apr2025 03:13:59.296] [Server thread/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 0.957015 ms
+[24Apr2025 03:13:59.358] [Server thread/INFO] [Moonlight/]: Applied 7 data villager trades
+[24Apr2025 03:13:59.362] [Server thread/ERROR] [Moonlight/]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@247438fa
+[24Apr2025 03:14:09.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ moved wrongly!
+[24Apr2025 03:14:15.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15841ms or 316 ticks behind
+[24Apr2025 03:14:16.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> donde estan?
+[24Apr2025 03:14:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> no tengo amigos
+[24Apr2025 03:14:24.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> en el spawn
+[24Apr2025 03:14:41.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10506ms or 210 ticks behind
+[24Apr2025 03:15:03.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7505ms or 150 ticks behind
+[24Apr2025 03:15:07.462] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 03:15:07.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mor444[/127.124.226.254:59039] logged in with entity id 19137 at (-1.5, 68.0, 10.5)
+[24Apr2025 03:15:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 joined the game
+[24Apr2025 03:15:07.644] [Server thread/INFO] [Jade/]: Syncing config to mor444 (0e0de018-b2ed-3691-b265-6e9792990804)
+[24Apr2025 03:15:23.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=2}
+[24Apr2025 03:15:23.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=10, y=65, z=2}
+[24Apr2025 03:15:24.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=2}
+[24Apr2025 03:15:25.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=2}
+[24Apr2025 03:15:25.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6918ms or 138 ticks behind
+[24Apr2025 03:15:34.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=2}
+[24Apr2025 03:15:35.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=2}
+[24Apr2025 03:15:35.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=1}
+[24Apr2025 03:15:36.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=1}
+[24Apr2025 03:15:43.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=74, z=-15} BlockPos{x=11, y=65, z=2}
+[24Apr2025 03:15:44.648] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mor444 (18)
+[24Apr2025 03:15:44.649] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mor444
+[24Apr2025 03:15:45.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4936ms or 98 ticks behind
+[24Apr2025 03:16:04.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
+[24Apr2025 03:16:11.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 03:16:12.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 03:16:12.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mor444 (0e0de018-b2ed-3691-b265-6e9792990804) successfully connected to voice chat
+[24Apr2025 03:16:19.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> hola
+[24Apr2025 03:16:22.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> oal
+[24Apr2025 03:16:24.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4684ms or 93 ticks behind
+[24Apr2025 03:16:30.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Best Friends Forever]
+[24Apr2025 03:16:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Stone Age]
+[24Apr2025 03:16:45.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
+[24Apr2025 03:17:06.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5883ms or 117 ticks behind
+[24Apr2025 03:17:25.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[24Apr2025 03:17:44.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[24Apr2025 03:18:02.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[24Apr2025 03:18:21.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[24Apr2025 03:18:42.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
+[24Apr2025 03:19:03.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6448ms or 128 ticks behind
+[24Apr2025 03:19:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported ElAkakali to Torig10]
+[24Apr2025 03:19:22.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
+[24Apr2025 03:19:40.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[24Apr2025 03:19:58.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[24Apr2025 03:20:16.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[24Apr2025 03:20:34.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[24Apr2025 03:20:51.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[24Apr2025 03:20:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> hay mapa?
+[24Apr2025 03:21:00.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> si
+[24Apr2025 03:21:09.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> abre el inventario y estribe atlas
+[24Apr2025 03:21:10.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
+[24Apr2025 03:21:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> en el jei
