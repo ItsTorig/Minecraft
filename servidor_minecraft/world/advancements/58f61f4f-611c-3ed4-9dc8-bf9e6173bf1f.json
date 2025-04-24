@@ -175,6 +175,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-24 02:22:07 +0000",
       "minecraft:spider": "2025-04-24 02:22:01 +0000",
+      "minecraft:creeper": "2025-04-24 04:03:19 +0000",
       "minecraft:zombie": "2025-04-24 02:12:18 +0000"
     },
     "done": false
@@ -1258,73 +1259,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "requirement": "2025-04-24 04:09:24 +0000",
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
@@ -1388,6 +1390,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-24 04:09:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 03:31:14 +0000"
@@ -1409,6 +1417,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-24 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 03:58:19 +0000"
     },
     "done": true
   },
@@ -1538,6 +1552,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-04-24 04:00:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 03:31:14 +0000"
@@ -1646,9 +1666,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-24 03:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-24 03:50:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-24 03:58:19 +0000"
     },
     "done": true
   },
@@ -1673,6 +1705,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-24 03:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 03:58:19 +0000"
     },
     "done": true
   },
@@ -1769,6 +1807,12 @@
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 03:58:19 +0000"
     },
     "done": true
   },

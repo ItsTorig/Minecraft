@@ -658,7 +658,8 @@
       "mutton": "2025-04-24 02:56:54 +0000",
       "bread": "2025-04-24 03:07:52 +0000",
       "rotten_flesh": "2025-04-24 03:52:53 +0000",
-      "dried_kelp": "2025-04-24 03:35:13 +0000"
+      "dried_kelp": "2025-04-24 03:35:13 +0000",
+      "beetroot": "2025-04-24 04:07:41 +0000"
     },
     "done": false
   },
@@ -1546,73 +1547,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:56:56 +0000"
+      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
     },
     "done": false
   },
@@ -1706,6 +1707,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-24 03:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-24 03:37:38 +0000"
@@ -1715,6 +1722,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-24 03:37:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-04-24 03:58:32 +0000"
     },
     "done": true
   },
@@ -1787,6 +1800,12 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-04-24 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-24 04:08:05 +0000"
     },
     "done": true
   },

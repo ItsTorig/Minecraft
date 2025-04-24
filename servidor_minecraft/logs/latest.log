@@ -1926,3 +1926,100 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 04:01:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Mine? Mine? Mine?]
 [24Apr2025 04:01:27.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
 [24Apr2025 04:01:45.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[24Apr2025 04:01:49.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 04:01:49.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali fell from a high place
+[24Apr2025 04:01:49.754] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 04:01:57.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 04:01:59.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 04:02:05.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
+[24Apr2025 04:02:13.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=18, z=201} BlockPos{x=-2, y=-44, z=203}
+[24Apr2025 04:02:17.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Adventure Mode]
+[24Apr2025 04:02:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> dormir
+[24Apr2025 04:02:25.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[24Apr2025 04:02:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Zombie
+[24Apr2025 04:02:32.744] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 04:02:34.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=73, z=522}
+[24Apr2025 04:02:44.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
+[24Apr2025 04:02:53.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> zzz
+[24Apr2025 04:03:03.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[24Apr2025 04:03:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Ashes 'n Bones]
+[24Apr2025 04:03:23.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5541ms or 110 ticks behind
+[24Apr2025 04:03:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Ambush]
+[24Apr2025 04:03:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was slain by Cave Spider
+[24Apr2025 04:03:40.069] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 04:03:40.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 04:03:40.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[24Apr2025 04:03:40.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 04:03:40.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 04:03:40.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 04:03:44.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5317ms or 106 ticks behind
+[24Apr2025 04:03:46.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [A Strange Grave Dust]
+[24Apr2025 04:03:47.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Cave Spider
+[24Apr2025 04:03:47.716] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 04:04:04.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4904ms or 98 ticks behind
+[24Apr2025 04:04:23.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4708ms or 94 ticks behind
+[24Apr2025 04:04:32.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [What a Deal!]
+[24Apr2025 04:04:43.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4782ms or 95 ticks behind
+[24Apr2025 04:04:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 04:04:51.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Zombie
+[24Apr2025 04:04:51.255] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 04:05:02.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[24Apr2025 04:05:09.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Adventure Mode]
+[24Apr2025 04:05:20.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
+[24Apr2025 04:05:39.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[24Apr2025 04:05:57.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 04:05:58.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4400ms or 88 ticks behind
+[24Apr2025 04:06:17.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3664ms or 73 ticks behind
+[24Apr2025 04:06:18.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was shot by Skeleton
+[24Apr2025 04:06:18.773] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 04:06:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Zombie Villager
+[24Apr2025 04:06:26.337] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 04:06:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Getting an Upgrade]
+[24Apr2025 04:06:36.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
+[24Apr2025 04:06:55.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4555ms or 91 ticks behind
+[24Apr2025 04:07:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> mariaaaaaaaaaaaaaa
+[24Apr2025 04:07:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has reached the goal [Chain Death]
+[24Apr2025 04:07:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Zombie Villager
+[24Apr2025 04:07:05.893] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 04:07:05.986] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 04:07:05.986] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[24Apr2025 04:07:05.986] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 04:07:05.986] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 04:07:05.986] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 04:07:07.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> q pasa
+[24Apr2025 04:07:11.525] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1237, l='ServerLevel[world]', x=174.38, y=65.00, z=15.70] died, message: 'Fisherman was slain by Zombie'
+[24Apr2025 04:07:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 was slain by Zombie
+[24Apr2025 04:07:12.462] [Server thread/INFO] [tombstone/]: The player Joker912 has successfully been saved
+[24Apr2025 04:07:14.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
+[24Apr2025 04:07:33.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3716ms or 74 ticks behind
+[24Apr2025 04:07:52.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4097ms or 81 ticks behind
+[24Apr2025 04:08:11.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4265ms or 85 ticks behind
+[24Apr2025 04:08:28.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Diamonds!]
+[24Apr2025 04:08:31.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4258ms or 85 ticks behind
+[24Apr2025 04:08:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has reached the goal [Chain Death]
+[24Apr2025 04:08:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 was shot by Skeleton
+[24Apr2025 04:08:34.133] [Server thread/INFO] [tombstone/]: The player Joker912 has successfully been saved
+[24Apr2025 04:08:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was shot by Skeleton
+[24Apr2025 04:08:42.147] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 04:08:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [The Most Useful Key]
+[24Apr2025 04:08:45.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> adios a todos
+[24Apr2025 04:08:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> ya me voy
+[24Apr2025 04:08:50.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
+[24Apr2025 04:08:58.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joker912 lost connection: Disconnected
+[24Apr2025 04:08:58.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 left the game
+[24Apr2025 04:08:58.871] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Joker912
+[24Apr2025 04:09:09.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
+[24Apr2025 04:09:27.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[24Apr2025 04:09:41.148] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24Apr2025 04:09:47.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[24Apr2025 04:10:05.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[24Apr2025 04:10:24.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3506ms or 70 ticks behind
+[24Apr2025 04:10:28.811] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24Apr2025 04:10:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> time set clear
+[24Apr2025 04:10:42.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3724ms or 74 ticks behind
+[24Apr2025 04:11:03.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5598ms or 111 ticks behind
+[24Apr2025 04:11:07.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> | gamemode creative
+[24Apr2025 04:11:23.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5269ms or 105 ticks behind
+[24Apr2025 04:11:44.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6251ms or 125 ticks behind
+[24Apr2025 04:11:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was shot by Skeleton
+[24Apr2025 04:11:47.737] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
