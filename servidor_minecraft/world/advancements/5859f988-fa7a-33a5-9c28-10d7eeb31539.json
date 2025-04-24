@@ -1245,73 +1245,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:15 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:02 +0000"
     },
     "done": false
   },
@@ -1438,6 +1438,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-24 03:35:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-04-24 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-04-24 04:15:47 +0000"
     },
     "done": true
   },
@@ -1850,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-24 04:15:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-24 03:28:51 +0000"
@@ -1949,6 +1967,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-24 03:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-24 04:15:47 +0000"
     },
     "done": true
   },
@@ -2138,6 +2162,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-24 04:15:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-24 03:28:51 +0000"
@@ -2183,6 +2213,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-24 03:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-24 04:15:47 +0000"
     },
     "done": true
   },
@@ -2329,6 +2365,12 @@
       "has_iron_leggings": "2025-04-24 04:00:41 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-24 04:14:13 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {

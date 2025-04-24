@@ -78,6 +78,8 @@
       "bayou": "2025-04-24 02:54:45 +0000",
       "autumnal_maple_forest": "2025-04-24 02:54:04 +0000",
       "muddy_river": "2025-04-24 03:23:26 +0000",
+      "willow_forest": "2025-04-24 04:10:53 +0000",
+      "rocky_meadow": "2025-04-24 04:10:02 +0000",
       "maple_forest": "2025-04-24 02:54:23 +0000",
       "boreal_forest": "2025-04-24 03:05:27 +0000",
       "towering_cliffs": "2025-04-24 02:07:11 +0000",
@@ -94,6 +96,8 @@
       "bayou": "2025-04-24 02:54:45 +0000",
       "autumnal_maple_forest": "2025-04-24 02:54:04 +0000",
       "muddy_river": "2025-04-24 03:23:26 +0000",
+      "willow_forest": "2025-04-24 04:10:53 +0000",
+      "rocky_meadow": "2025-04-24 04:10:02 +0000",
       "maple_forest": "2025-04-24 02:54:23 +0000",
       "boreal_forest": "2025-04-24 03:05:27 +0000",
       "towering_cliffs": "2025-04-24 02:07:11 +0000",
@@ -813,6 +817,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-24 04:11:17 +0000",
       "apple": "2025-04-24 03:19:58 +0000",
       "bread": "2025-04-24 02:18:14 +0000"
     },
@@ -1979,73 +1984,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 04:09:16 +0000"
+      "log_spam_fixer": "2025-04-24 04:16:03 +0000"
     },
     "done": false
   },
@@ -2175,6 +2180,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-24 04:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-24 03:16:13 +0000"
@@ -2220,6 +2231,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-24 03:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-24 04:10:05 +0000"
     },
     "done": true
   },
@@ -2553,6 +2570,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-04-24 04:10:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 04:08:59 +0000"
@@ -2691,6 +2714,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-24 04:10:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2025-04-24 03:15:04 +0000"
@@ -2757,6 +2786,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 04:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-24 04:08:59 +0000"
@@ -2784,6 +2819,18 @@
   "regions_unexplored:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_maple_planks": "2025-04-24 03:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-24 04:10:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 04:10:05 +0000"
     },
     "done": true
   },
