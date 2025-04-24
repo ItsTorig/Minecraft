@@ -1293,3 +1293,77 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 02:05:26.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 fell from a high place
 [24Apr2025 02:05:26.353] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
 [24Apr2025 02:06:35.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> pasa cosas hjasdgkasjhd
+[24Apr2025 02:07:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig pasa el libro de botania
+[24Apr2025 02:08:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> para ir recogiendo sus materiales pe
+[24Apr2025 02:08:16.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 02:08:21.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 02:08:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> te amo
+[24Apr2025 02:08:37.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [A Realistical Logical Ideologist]
+[24Apr2025 02:08:52.218] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 02:08:52.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _BandoWasHere_[/127.215.170.189:49079] logged in with entity id 3428 at (-5.5, 64.0, 1.5)
+[24Apr2025 02:08:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ joined the game
+[24Apr2025 02:08:52.383] [Server thread/INFO] [Jade/]: Syncing config to _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f)
+[24Apr2025 02:08:54.363] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _BandoWasHere_ (18)
+[24Apr2025 02:08:54.363] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _BandoWasHere_
+[24Apr2025 02:09:05.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f
+[24Apr2025 02:09:06.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f
+[24Apr2025 02:09:06.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f) successfully connected to voice chat
+[24Apr2025 02:09:22.795] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 02:09:22.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElAkakali[/127.145.101.247:59339] logged in with entity id 3533 at (178.55300295936442, 65.0, 20.526341153888875)
+[24Apr2025 02:09:22.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali joined the game
+[24Apr2025 02:09:22.942] [Server thread/INFO] [Jade/]: Syncing config to ElAkakali (c3be4512-043b-3a98-8589-7936244c6859)
+[24Apr2025 02:09:24.845] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElAkakali (18)
+[24Apr2025 02:09:24.845] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElAkakali
+[24Apr2025 02:09:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> has de dia pe bb
+[24Apr2025 02:09:35.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3be4512-043b-3a98-8589-7936244c6859
+[24Apr2025 02:09:36.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3be4512-043b-3a98-8589-7936244c6859
+[24Apr2025 02:09:36.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElAkakali (c3be4512-043b-3a98-8589-7936244c6859) successfully connected to voice chat
+[24Apr2025 02:09:41.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> mucho demoras
+[24Apr2025 02:09:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ;V
+[24Apr2025 02:09:50.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> es q es primera vez en maicra coin mods
+[24Apr2025 02:09:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set the time to 1000]
+[24Apr2025 02:10:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig
+[24Apr2025 02:10:16.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> aver hablame por voice chat
+[24Apr2025 02:10:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [I Found It Underground]
+[24Apr2025 02:10:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Apothic Affixes]
+[24Apr2025 02:10:34.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Torig10 to Clearson06]
+[24Apr2025 02:10:45.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3543, l='ServerLevel[world]', x=192.70, y=65.00, z=76.70] died, message: 'Unemployed suffocated in a wall'
+[24Apr2025 02:12:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [Monster Hunter]
+[24Apr2025 02:12:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> akakali
+[24Apr2025 02:12:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> entra lol
+[24Apr2025 02:12:27.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> estan que joden
+[24Apr2025 02:12:40.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [Stone Age]
+[24Apr2025 02:12:49.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> akakali
+[24Apr2025 02:12:51.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> estas?
+[24Apr2025 02:12:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> que
+[24Apr2025 02:12:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> si
+[24Apr2025 02:12:58.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> entra lol
+[24Apr2025 02:13:02.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> estan que joden
+[24Apr2025 02:13:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> tamare
+[24Apr2025 02:13:08.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ya
+[24Apr2025 02:13:16.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> hazme tp a bando
+[24Apr2025 02:13:18.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> xd
+[24Apr2025 02:13:32.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ lost connection: Disconnected
+[24Apr2025 02:13:32.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ left the game
+[24Apr2025 02:13:32.698] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _BandoWasHere_
+[24Apr2025 02:13:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> xd
+[24Apr2025 02:13:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> justo se fue
+[24Apr2025 02:13:44.587] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 02:13:44.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _BandoWasHere_[/127.215.170.189:48247] logged in with entity id 5723 at (94.50031400523356, 64.0, 114.57153233582078)
+[24Apr2025 02:13:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ joined the game
+[24Apr2025 02:13:44.719] [Server thread/INFO] [Jade/]: Syncing config to _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f)
+[24Apr2025 02:13:44.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _BandoWasHere_ (18)
+[24Apr2025 02:13:44.955] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _BandoWasHere_
+[24Apr2025 02:13:52.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f
+[24Apr2025 02:13:53.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f
+[24Apr2025 02:13:53.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _BandoWasHere_ (58f61f4f-611c-3ed4-9dc8-bf9e6173bf1f) successfully connected to voice chat
+[24Apr2025 02:14:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Clearson06 to _BandoWasHere_]
+[24Apr2025 02:14:36.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [A Seedy Place]
+[24Apr2025 02:16:11.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=64, z=100} BlockPos{x=134, y=62, z=100}
+[24Apr2025 02:17:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [Apothic Affixes]
+[24Apr2025 02:17:40.576] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 02:17:40.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nycren04[/127.124.226.254:49041] logged in with entity id 7015 at (-3.5, 67.0, 5.5)
+[24Apr2025 02:17:40.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nycren04 joined the game
+[24Apr2025 02:17:40.691] [Server thread/INFO] [Jade/]: Syncing config to nycren04 (0504deb4-4aa5-37ee-b4f7-1071e9b3e218)
+[24Apr2025 02:17:44.449] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nycren04 (18)
+[24Apr2025 02:17:44.449] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nycren04
