@@ -81,7 +81,8 @@
       "maple_forest": "2025-04-24 03:28:27 +0000",
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
-      "temperate_grove": "2025-04-24 03:27:58 +0000"
+      "temperate_grove": "2025-04-24 03:27:58 +0000",
+      "cold_river": "2025-04-24 05:12:36 +0000"
     },
     "done": false
   },
@@ -95,7 +96,8 @@
       "maple_forest": "2025-04-24 03:28:27 +0000",
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
-      "temperate_grove": "2025-04-24 03:27:58 +0000"
+      "temperate_grove": "2025-04-24 03:27:58 +0000",
+      "cold_river": "2025-04-24 05:12:36 +0000"
     },
     "done": false
   },
@@ -1332,6 +1334,7 @@
       "sweet_berries": "2025-04-24 04:55:26 +0000",
       "baked_potato": "2025-04-24 03:35:12 +0000",
       "bread": "2025-04-24 04:43:32 +0000",
+      "rotten_flesh": "2025-04-24 05:07:54 +0000",
       "beetroot": "2025-04-24 04:49:27 +0000"
     },
     "done": false
@@ -2804,76 +2807,159 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-24 05:02:10 +0000",
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:02:07 +0000"
+      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
     },
     "done": false
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_item": "2025-04-24 05:04:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_item": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-24 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-24 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/gem": {
     "criteria": {
@@ -2881,9 +2967,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-04-24 05:02:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-24 05:05:10 +0000"
     },
     "done": true
   },
