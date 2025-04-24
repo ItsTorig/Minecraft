@@ -2526,3 +2526,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 05:43:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
 [24Apr2025 05:43:01.915] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.43.01.dat
 [24Apr2025 05:43:01.919] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 05:44:00.060] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/116173, l='ServerLevel[world]', x=984.87, y=71.41, z=236.00] died: Undead Knight suffocated in a wall
+[24Apr2025 05:44:29.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 05:44:56.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 05:45:29.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[24Apr2025 05:45:29.418] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 05:47:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[24Apr2025 05:47:00.368] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.47.00.dat
+[24Apr2025 05:47:00.374] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 05:47:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [The Most Useful Key]
+[24Apr2025 05:47:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was blown up by Creeper
+[24Apr2025 05:47:18.381] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 05:47:47.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Disconnected
+[24Apr2025 05:47:47.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
+[24Apr2025 05:47:47.067] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
+[24Apr2025 05:48:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was shot by Skeleton
+[24Apr2025 05:48:03.720] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 05:48:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was blown up by Creeper
+[24Apr2025 05:48:38.807] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.48.38.dat
+[24Apr2025 05:48:38.831] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 05:48:58.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/118855, l='ServerLevel[world]', x=970.25, y=69.00, z=136.23] died: Undead Knight was slain by o8h_msmc_jw5
+[24Apr2025 05:49:51.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> 31 69 183

@@ -2817,74 +2817,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-24 05:42:20 +0000",
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "requirement": "2025-04-24 05:52:44 +0000",
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:42:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:52:08 +0000"
     },
     "done": false
   },
@@ -2971,6 +2971,12 @@
       "has_wool": "2025-04-24 05:42:34 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-04-24 05:47:28 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
@@ -3080,9 +3086,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-04-24 05:47:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-24 05:45:38 +0000"
     },
     "done": true
   },
@@ -3158,6 +3176,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
@@ -3170,6 +3194,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_item": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/white_shiny_flower": {
     "criteria": {
       "has_item": "2025-04-24 05:16:17 +0000"
@@ -3179,6 +3209,12 @@
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-04-24 05:47:28 +0000"
     },
     "done": true
   },
@@ -3209,6 +3245,12 @@
   "regions_unexplored:recipes/building_blocks/larch_slab": {
     "criteria": {
       "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 05:47:28 +0000"
     },
     "done": true
   },
@@ -3296,6 +3338,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_black": {
     "criteria": {
       "has_item": "2025-04-24 05:42:34 +0000"
@@ -3368,6 +3416,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-24 05:47:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/larch_sign": {
     "criteria": {
       "has_larch_planks": "2025-04-24 05:04:01 +0000"
@@ -3437,6 +3491,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 05:47:28 +0000"
     },
     "done": true
   },
