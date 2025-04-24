@@ -2511,3 +2511,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 05:29:02.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.29.02.dat
 [24Apr2025 05:29:02.889] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
 [24Apr2025 05:29:35.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [How'd You Get This?]
+[24Apr2025 05:36:00.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Pic-A-Nic Basket?]
+[24Apr2025 05:36:16.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> f
+[24Apr2025 05:36:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 05:36:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 05:39:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 fell from a high place
+[24Apr2025 05:39:54.822] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.standard_24.04.2025-05.39.54.dat
+[24Apr2025 05:39:54.824] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[24Apr2025 05:42:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 was slain by Wolf
+[24Apr2025 05:42:05.920] [Server thread/INFO] [tombstone/]: The player Edlynne1 has successfully been saved
+[24Apr2025 05:42:14.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Far From Perfect]
+[24Apr2025 05:42:20.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was pummeled by Edlynne1
+[24Apr2025 05:42:20.355] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 05:43:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[24Apr2025 05:43:01.915] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.43.01.dat
+[24Apr2025 05:43:01.919] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
