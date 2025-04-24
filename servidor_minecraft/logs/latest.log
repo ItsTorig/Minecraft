@@ -1763,3 +1763,166 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 03:29:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [Getting an Upgrade]
 [24Apr2025 03:29:30.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [24Apr2025 03:29:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [Stone Age]
+[24Apr2025 03:33:36.618] [ForkJoinPool.commonPool-worker-22/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 03:33:36.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mor444[/127.124.226.254:33381] logged in with entity id 30798 at (-23.154468413336428, 79.0, 59.94164222921018)
+[24Apr2025 03:33:36.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 joined the game
+[24Apr2025 03:33:36.729] [Server thread/INFO] [Jade/]: Syncing config to mor444 (0e0de018-b2ed-3691-b265-6e9792990804)
+[24Apr2025 03:34:12.778] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mor444 (18)
+[24Apr2025 03:34:12.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mor444
+[24Apr2025 03:34:35.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 03:34:36.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 03:34:36.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mor444 (0e0de018-b2ed-3691-b265-6e9792990804) successfully connected to voice chat
+[24Apr2025 03:34:36.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Getting an Upgrade]
+[24Apr2025 03:35:05.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> wwww
+[24Apr2025 03:35:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Sweet Dreams]
+[24Apr2025 03:35:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> zzzzzzzzzzzzz
+[24Apr2025 03:35:14.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Zombie
+[24Apr2025 03:35:14.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Your First Grave]
+[24Apr2025 03:35:14.522] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 03:35:14.548] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 03:35:14.548] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[24Apr2025 03:35:14.548] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 03:35:14.548] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 03:35:14.548] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 03:35:18.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> wiwiwiwiwiw
+[24Apr2025 03:35:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set the time to 1000]
+[24Apr2025 03:35:47.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[24Apr2025 03:36:52.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1202, l='ServerLevel[world]', x=143.50, y=63.00, z=109.70] died, message: 'Unemployed was blown up by Creeper'
+[24Apr2025 03:38:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [This Must be a Sign!]
+[24Apr2025 03:38:50.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Stone Age]
+[24Apr2025 03:38:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Stone Age]
+[24Apr2025 03:39:15.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig controla a tus dibujitos
+[24Apr2025 03:39:31.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> nada de q logros y recien la edad de piedra
+[24Apr2025 03:39:37.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mor444 lost connection: Timed out
+[24Apr2025 03:39:37.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 left the game
+[24Apr2025 03:39:37.283] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mor444
+[24Apr2025 03:39:59.780] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f5915a9[id=<null>,name=mor444,properties={},legacy=false] (/127.124.226.254:56463) lost connection: Disconnected
+[24Apr2025 03:40:30.806] [ForkJoinPool.commonPool-worker-24/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 03:40:30.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mor444[/127.124.226.254:41601] logged in with entity id 34547 at (-18.01608244909799, 80.0, 36.780768827013645)
+[24Apr2025 03:40:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 joined the game
+[24Apr2025 03:40:30.910] [Server thread/INFO] [Jade/]: Syncing config to mor444 (0e0de018-b2ed-3691-b265-6e9792990804)
+[24Apr2025 03:40:31.203] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mor444 (18)
+[24Apr2025 03:40:31.203] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mor444
+[24Apr2025 03:40:47.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 03:40:48.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 03:40:48.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mor444 (0e0de018-b2ed-3691-b265-6e9792990804) successfully connected to voice chat
+[24Apr2025 03:41:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Monster Hunter]
+[24Apr2025 03:42:32.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was blown up by Creeper
+[24Apr2025 03:42:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Your First Grave]
+[24Apr2025 03:42:32.294] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 03:42:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [The Most Useful Key]
+[24Apr2025 03:42:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> XD
+[24Apr2025 03:42:37.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> XDDD
+[24Apr2025 03:42:43.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> xd
+[24Apr2025 03:42:43.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> manten presionado el click derecho
+[24Apr2025 03:42:48.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> para la llave
+[24Apr2025 03:42:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Knowledge of Death]
+[24Apr2025 03:42:52.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has reached the goal [A Fast Comeback]
+[24Apr2025 03:42:55.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has reached the goal [Discreet Search]
+[24Apr2025 03:43:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Acquire Hardware]
+[24Apr2025 03:43:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [I Found It Underground]
+[24Apr2025 03:43:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Apothic Affixes]
+[24Apr2025 03:44:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Not Today, Thank You]
+[24Apr2025 03:45:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was shot by Skeleton
+[24Apr2025 03:45:10.334] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 03:45:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was shot by Skeleton
+[24Apr2025 03:45:38.380] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 03:45:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Knowledge of Death]
+[24Apr2025 03:45:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has reached the goal [A Fast Comeback]
+[24Apr2025 03:45:48.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Isn't It Iron Pick]
+[24Apr2025 03:46:14.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has reached the goal [Chain Death]
+[24Apr2025 03:46:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali drowned
+[24Apr2025 03:46:14.879] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 03:46:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Getting an Upgrade]
+[24Apr2025 03:47:24.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Sweet Dreams]
+[24Apr2025 03:47:27.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was blown up by Creeper
+[24Apr2025 03:47:27.096] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 03:47:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Not Today, Thank You]
+[24Apr2025 03:47:42.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has reached the goal [Here They Come]
+[24Apr2025 03:47:58.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Suit Up]
+[24Apr2025 03:47:58.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has reached the goal [Worthy Equipment]
+[24Apr2025 03:48:43.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 03:48:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 03:49:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> oe
+[24Apr2025 03:49:18.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Zombie
+[24Apr2025 03:49:18.724] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 03:49:42.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> mor
+[24Apr2025 03:49:49.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> asu
+[24Apr2025 03:49:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> asu
+[24Apr2025 03:49:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> asu
+[24Apr2025 03:49:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> chapelo
+[24Apr2025 03:49:53.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> es tu amor
+[24Apr2025 03:49:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> dale click derecho manteniendolo para ir a tu tumba
+[24Apr2025 03:49:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> uwu?
+[24Apr2025 03:49:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> con la llave
+[24Apr2025 03:49:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> xdd
+[24Apr2025 03:50:03.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> xd
+[24Apr2025 03:50:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> xddd
+[24Apr2025 03:50:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> xddty
+[24Apr2025 03:50:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> mor
+[24Apr2025 03:50:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> pensé se encantaba con ojo
+[24Apr2025 03:50:26.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has reached the goal [Here They Come]
+[24Apr2025 03:50:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> ya esta encantada
+[24Apr2025 03:50:54.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> renzo te llamas no?
+[24Apr2025 03:51:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> sí
+[24Apr2025 03:51:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> mor se llama
+[24Apr2025 03:51:12.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> mor
+[24Apr2025 03:51:18.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> dale a la v y configura tu voice chat
+[24Apr2025 03:51:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [A Strange Grave Dust]
+[24Apr2025 03:53:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was slain by Clearson06
+[24Apr2025 03:53:26.629] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[24Apr2025 03:53:38.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=63, z=-4}
+[24Apr2025 03:53:38.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=63, z=-3}
+[24Apr2025 03:53:48.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> cagon
+[24Apr2025 03:54:16.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was shot by Skeleton
+[24Apr2025 03:54:16.689] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 03:54:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Not Today, Thank You]
+[24Apr2025 03:54:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Acquire Hardware]
+[24Apr2025 03:54:30.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Diamonds!]
+[24Apr2025 03:54:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [The Most Useful Key]
+[24Apr2025 03:54:52.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [How'd You Get This?]
+[24Apr2025 03:54:58.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Knowledge of Death]
+[24Apr2025 03:54:58.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has reached the goal [A Fast Comeback]
+[24Apr2025 03:55:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig
+[24Apr2025 03:55:24.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/38419, l='ServerLevel[world]', x=2.30, y=66.00, z=141.58] died: Undead Knight was slain by _BandoWasHere_
+[24Apr2025 03:55:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> me lo voy a bajar a ese allmight
+[24Apr2025 03:55:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> xdd
+[24Apr2025 03:56:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Acquire Hardware]
+[24Apr2025 03:57:47.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[24Apr2025 03:58:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> es una wbd el mapa torig
+[24Apr2025 03:58:04.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[24Apr2025 03:58:11.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> t,r
+[24Apr2025 03:58:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> espera
+[24Apr2025 03:58:15.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 03:58:22.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[24Apr2025 03:58:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Torig10 to Clearson06]
+[24Apr2025 03:58:44.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Apr2025 03:59:05.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> van a crear otro mapa o es oficial?
+[24Apr2025 03:59:12.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Apr2025 03:59:33.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Apr2025 03:59:48.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was pierced by Necromancer's icicle
+[24Apr2025 03:59:48.634] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 03:59:48.785] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 03:59:48.786] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[24Apr2025 03:59:48.786] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 03:59:48.786] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 03:59:48.786] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 03:59:52.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3725ms or 74 ticks behind
+[24Apr2025 03:59:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Suit Up]
+[24Apr2025 04:00:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Flexible Schedule]
+[24Apr2025 04:00:12.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
+[24Apr2025 04:00:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was killed by Necromancer's magic missile
+[24Apr2025 04:00:29.200] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[24Apr2025 04:00:31.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 was slain by Murmur
+[24Apr2025 04:00:31.764] [Server thread/INFO] [tombstone/]: The player Edlynne1 has successfully been saved
+[24Apr2025 04:00:32.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
+[24Apr2025 04:00:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Flexible Schedule]
+[24Apr2025 04:00:41.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Suit Up]
+[24Apr2025 04:00:42.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Monster Hunter]
+[24Apr2025 04:00:50.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
+[24Apr2025 04:00:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 04:00:57.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> pasa
+[24Apr2025 04:01:08.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[24Apr2025 04:01:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Mine? Mine? Mine?]
+[24Apr2025 04:01:27.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
+[24Apr2025 04:01:45.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
