@@ -642,6 +642,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-24 02:59:08 +0000",
       "apple": "2025-04-24 02:14:29 +0000",
       "mutton": "2025-04-24 02:56:54 +0000"
     },
@@ -869,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-24 03:01:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:54:29 +0000"
@@ -893,6 +900,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-24 03:04:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-04-24 02:54:29 +0000"
@@ -908,6 +921,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-24 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-24 03:03:22 +0000"
     },
     "done": true
   },
@@ -932,6 +951,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-24 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-24 03:01:36 +0000"
     },
     "done": true
   },
@@ -989,6 +1014,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-24 03:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-24 03:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-24 02:54:29 +0000"
@@ -1019,6 +1056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-24 02:59:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-04-24 02:54:29 +0000"
@@ -1040,6 +1083,12 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-04-24 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-24 03:01:15 +0000"
     },
     "done": true
   },
@@ -1097,9 +1146,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-24 03:01:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-24 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-24 03:01:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-24 03:01:15 +0000"
     },
     "done": true
   },
@@ -1175,6 +1242,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-24 03:01:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-04-24 02:54:29 +0000"
@@ -1196,6 +1269,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-24 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 03:03:25 +0000"
     },
     "done": true
   },
@@ -1229,9 +1308,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-04-24 03:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-24 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-04-24 03:04:39 +0000"
     },
     "done": true
   },
@@ -1319,6 +1410,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-24 03:04:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-04-24 03:04:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-04-24 02:54:29 +0000"
@@ -1334,6 +1437,12 @@
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-04-24 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-24 03:01:06 +0000"
     },
     "done": true
   },
@@ -1361,6 +1470,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-24 03:01:15 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-24 02:55:35 +0000"
@@ -1376,6 +1491,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-04-24 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-24 03:04:39 +0000"
     },
     "done": true
   },

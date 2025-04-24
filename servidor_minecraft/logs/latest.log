@@ -1339,3 +1339,62 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 03:00:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [The Most Useful Key]
 [24Apr2025 03:00:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was shot by Skeleton
 [24Apr2025 03:00:58.901] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[24Apr2025 03:01:06.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Getting an Upgrade]
+[24Apr2025 03:01:57.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Apr2025 03:02:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [Not Today, Thank You]
+[24Apr2025 03:02:12.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1101, l='ServerLevel[world]', x=115.50, y=67.50, z=125.91] died, message: 'Farmer was slain by Zombie'
+[24Apr2025 03:03:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Monster Hunter]
+[24Apr2025 03:03:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was shot by Skeleton
+[24Apr2025 03:03:14.382] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[24Apr2025 03:03:25.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has reached the goal [Here They Come]
+[24Apr2025 03:04:22.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [A Seedy Place]
+[24Apr2025 03:04:31.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [Knowledge of Death]
+[24Apr2025 03:04:31.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has reached the goal [A Fast Comeback]
+[24Apr2025 03:04:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Apothic Affixes]
+[24Apr2025 03:04:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has reached the goal [Worthy Equipment]
+[24Apr2025 03:04:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Suit Up]
+[24Apr2025 03:04:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [I Found It Underground]
+[24Apr2025 03:04:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 was shot by Skeleton
+[24Apr2025 03:04:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Your First Grave]
+[24Apr2025 03:04:56.578] [Server thread/INFO] [tombstone/]: The player Edlynne1 has successfully been saved
+[24Apr2025 03:05:09.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has reached the goal [Here They Come]
+[24Apr2025 03:05:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Sky of Beginning]
+[24Apr2025 03:05:48.841] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=101, y=67, z=-261}
+[24Apr2025 03:05:50.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=101, y=67, z=-261} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[24Apr2025 03:05:50.219] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=101, y=67, z=-261}
+[24Apr2025 03:05:51.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> NADA
+[24Apr2025 03:06:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Apothic Affixes]
+[24Apr2025 03:06:14.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [I Found It Underground]
+[24Apr2025 03:06:17.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Apr2025 03:06:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> nada
+[24Apr2025 03:06:34.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Apr2025 03:06:53.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Apr2025 03:07:09.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> estas muteado en el minecraft
+[24Apr2025 03:07:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> xd
+[24Apr2025 03:07:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> dale a la v
+[24Apr2025 03:07:36.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[24Apr2025 03:07:40.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=123, y=74, z=76} BlockPos{x=122, y=73, z=77}
+[24Apr2025 03:07:53.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
+[24Apr2025 03:08:07.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has reached the goal [Worthy Equipment]
+[24Apr2025 03:08:12.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Apr2025 03:08:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> pasen diamante muchachos
+[24Apr2025 03:08:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 was slain by Zombie
+[24Apr2025 03:08:26.925] [Server thread/INFO] [tombstone/]: The player Edlynne1 has successfully been saved
+[24Apr2025 03:08:28.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [The Most Useful Key]
+[24Apr2025 03:08:30.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Apr2025 03:08:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Knowledge of Death]
+[24Apr2025 03:08:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has reached the goal [A Fast Comeback]
+[24Apr2025 03:08:40.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> sisi
+[24Apr2025 03:08:45.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElAkakali moved wrongly!
+[24Apr2025 03:08:50.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Apr2025 03:08:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> como hablo?
+[24Apr2025 03:09:01.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> v
+[24Apr2025 03:09:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> con la boca
+[24Apr2025 03:09:07.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[24Apr2025 03:09:27.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4244ms or 84 ticks behind
+[24Apr2025 03:09:44.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[24Apr2025 03:10:03.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[24Apr2025 03:10:24.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5794ms or 115 ticks behind
+[24Apr2025 03:10:44.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5428ms or 108 ticks behind
+[24Apr2025 03:10:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali has made the advancement [Crops of the Wild]
+[24Apr2025 03:11:04.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4542ms or 90 ticks behind

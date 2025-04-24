@@ -84,6 +84,8 @@
       "bayou": "2025-04-24 02:24:11 +0000",
       "autumnal_maple_forest": "2025-04-24 02:44:26 +0000",
       "muddy_river": "2025-04-24 02:44:15 +0000",
+      "willow_forest": "2025-04-24 03:06:02 +0000",
+      "rocky_meadow": "2025-04-24 03:06:04 +0000",
       "maple_forest": "2025-04-24 02:37:42 +0000",
       "boreal_forest": "2025-04-24 02:55:44 +0000",
       "towering_cliffs": "2025-04-24 02:09:47 +0000",
@@ -98,6 +100,8 @@
       "bayou": "2025-04-24 02:24:11 +0000",
       "autumnal_maple_forest": "2025-04-24 02:44:26 +0000",
       "muddy_river": "2025-04-24 02:44:15 +0000",
+      "willow_forest": "2025-04-24 03:06:02 +0000",
+      "rocky_meadow": "2025-04-24 03:06:04 +0000",
       "maple_forest": "2025-04-24 02:37:42 +0000",
       "boreal_forest": "2025-04-24 02:55:44 +0000",
       "towering_cliffs": "2025-04-24 02:09:47 +0000",
@@ -1123,79 +1127,97 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 02:57:25 +0000"
+      "log_spam_fixer": "2025-04-24 03:07:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
+    },
+    "done": true
   },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-24 02:43:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
     },
     "done": true
   },
@@ -1205,9 +1227,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-04-24 02:43:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
     },
     "done": true
   },
@@ -1223,9 +1257,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-24 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
     },
     "done": true
   },
@@ -1238,6 +1284,18 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-04-24 02:57:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-04-24 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-04-24 02:57:57 +0000"
     },
     "done": true
   },
@@ -1255,7 +1313,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-04-24 02:47:30 +0000"
+      "minecraft:river": "2025-04-24 02:47:30 +0000",
+      "minecraft:forest": "2025-04-24 03:07:23 +0000"
     },
     "done": false
   },

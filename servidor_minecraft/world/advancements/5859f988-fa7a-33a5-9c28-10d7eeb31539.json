@@ -1,13 +1,61 @@
 {
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-04-24 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-04-24 02:55:24 +0000"
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-24 03:05:10 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-24 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-04-24 02:55:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -29,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-24 02:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
@@ -41,11 +95,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-04-24 02:56:15 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-04-24 03:04:22 +0000"
+    },
+    "done": false
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
@@ -71,9 +137,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-04-24 03:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 03:04:56 +0000"
     },
     "done": true
   },
@@ -95,9 +173,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-24 02:56:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-24 03:04:01 +0000"
     },
     "done": true
   },
@@ -125,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-04-24 02:56:15 +0000"
@@ -134,6 +230,18 @@
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-24 03:05:10 +0000"
     },
     "done": true
   },
@@ -167,6 +275,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 03:03:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
@@ -179,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -209,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2025-04-24 02:56:15 +0000"
@@ -230,6 +368,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-04-24 02:55:25 +0000",
+      "bayou": "2025-04-24 03:06:18 +0000",
       "towering_cliffs": "2025-04-24 02:56:41 +0000"
     },
     "done": false
@@ -237,6 +376,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -249,7 +394,26 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-04-24 02:55:25 +0000",
+      "bayou": "2025-04-24 03:06:18 +0000",
       "towering_cliffs": "2025-04-24 02:56:41 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-24 03:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-04-24 03:01:09 +0000"
     },
     "done": false
   },
@@ -259,9 +423,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-24 03:04:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -274,6 +456,12 @@
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 03:03:07 +0000"
     },
     "done": true
   },
@@ -307,9 +495,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-24 03:00:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 03:05:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-04-24 02:57:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-24 03:05:10 +0000"
     },
     "done": true
   },
@@ -319,9 +537,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-04-24 03:06:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -331,9 +561,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-24 02:55:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-24 03:04:01 +0000"
     },
     "done": true
   },
@@ -355,9 +603,21 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-24 03:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-24 02:56:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-04-24 03:03:07 +0000"
     },
     "done": true
   },
@@ -370,6 +630,12 @@
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-24 03:00:40 +0000"
     },
     "done": true
   },
@@ -415,9 +681,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2025-04-24 03:05:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -448,6 +738,42 @@
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-24 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-24 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-04-24 03:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
     },
     "done": true
   },
@@ -493,6 +819,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 03:03:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-04-24 02:56:15 +0000"
@@ -505,6 +837,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-04-24 02:55:24 +0000"
@@ -514,6 +858,12 @@
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-24 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-24 02:57:34 +0000"
     },
     "done": true
   },
@@ -535,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-24 03:04:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-04-24 02:56:15 +0000"
@@ -544,6 +900,18 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-24 02:55:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-24 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-24 03:05:10 +0000"
     },
     "done": true
   },

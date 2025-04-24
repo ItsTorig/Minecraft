@@ -78,7 +78,9 @@
       "bayou": "2025-04-24 02:54:45 +0000",
       "autumnal_maple_forest": "2025-04-24 02:54:04 +0000",
       "maple_forest": "2025-04-24 02:54:23 +0000",
+      "boreal_forest": "2025-04-24 03:05:27 +0000",
       "towering_cliffs": "2025-04-24 02:07:11 +0000",
+      "temperate_grove": "2025-04-24 03:03:13 +0000",
       "cold_river": "2025-04-24 02:54:14 +0000"
     },
     "done": false
@@ -90,7 +92,9 @@
       "bayou": "2025-04-24 02:54:45 +0000",
       "autumnal_maple_forest": "2025-04-24 02:54:04 +0000",
       "maple_forest": "2025-04-24 02:54:23 +0000",
+      "boreal_forest": "2025-04-24 03:05:27 +0000",
       "towering_cliffs": "2025-04-24 02:07:11 +0000",
+      "temperate_grove": "2025-04-24 03:03:13 +0000",
       "cold_river": "2025-04-24 02:54:14 +0000"
     },
     "done": false
@@ -1589,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-24 03:02:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
@@ -1625,6 +1635,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-04-24 03:02:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
@@ -1646,6 +1662,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2025-04-24 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 03:02:10 +0000"
     },
     "done": true
   },
@@ -1679,9 +1701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-24 03:07:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-24 03:04:27 +0000"
     },
     "done": true
   },
@@ -1721,6 +1755,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-24 03:04:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-24 02:51:52 +0000"
@@ -1754,6 +1794,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-24 03:03:18 +0000"
     },
     "done": true
   },
@@ -1812,6 +1858,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-04-24 03:03:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
@@ -1827,6 +1879,12 @@
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-04-24 03:07:11 +0000"
     },
     "done": true
   },
@@ -1863,6 +1921,12 @@
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-24 03:04:27 +0000"
     },
     "done": true
   },
