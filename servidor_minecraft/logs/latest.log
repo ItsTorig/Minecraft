@@ -2120,3 +2120,88 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 04:31:45.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
 [24Apr2025 04:32:03.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3398ms or 67 ticks behind
 [24Apr2025 04:32:22.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
+[24Apr2025 04:32:40.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[24Apr2025 04:32:58.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[24Apr2025 04:33:16.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[24Apr2025 04:33:17.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was shot by Skeleton
+[24Apr2025 04:33:17.265] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 04:33:33.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[24Apr2025 04:33:51.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[24Apr2025 04:34:06.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> zzzzzzzzzzzzzzzz
+[24Apr2025 04:34:08.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[24Apr2025 04:34:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> zzzzzzzzzzzzzzz
+[24Apr2025 04:34:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> zzzzzzz
+[24Apr2025 04:34:26.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[24Apr2025 04:34:42.976] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24Apr2025 04:34:44.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[24Apr2025 04:34:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> zeta ceta seta
+[24Apr2025 04:34:52.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [Stolen Magic]
+[24Apr2025 04:34:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mor444> +z
+[24Apr2025 04:35:03.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
+[24Apr2025 04:35:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[24Apr2025 04:35:14.052] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 04:35:14.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 04:35:14.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[24Apr2025 04:35:14.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 04:35:14.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 04:35:14.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 04:35:14.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has reached the goal [Magic Siphoner]
+[24Apr2025 04:35:22.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
+[24Apr2025 04:35:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 has made the advancement [A Strange Grave Dust]
+[24Apr2025 04:35:28.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[24Apr2025 04:35:28.836] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 04:35:33.407] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Count Marty the Doominator'/62169, l='ServerLevel[world]', x=-126.15, y=63.00, z=-48.68] died: Count Marty the Doominator was slain by _BandoWasHere_
+[24Apr2025 04:35:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Take Aim]
+[24Apr2025 04:35:40.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
+[24Apr2025 04:35:58.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[24Apr2025 04:36:16.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[24Apr2025 04:36:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has reached the goal [Strong or Careful]
+[24Apr2025 04:36:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[24Apr2025 04:36:16.593] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 04:36:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has completed the challenge [He Wasn't So Strong]
+[24Apr2025 04:36:33.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[24Apr2025 04:36:52.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4081ms or 81 ticks behind
+[24Apr2025 04:37:08.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mor444 lost connection: Timed out
+[24Apr2025 04:37:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 left the game
+[24Apr2025 04:37:08.104] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mor444
+[24Apr2025 04:37:09.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[24Apr2025 04:37:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 was slain by Zombie
+[24Apr2025 04:37:27.939] [Server thread/INFO] [tombstone/]: The player o8h_msmc_jw5 has successfully been saved
+[24Apr2025 04:37:30.329] [ForkJoinPool.commonPool-worker-41/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 04:37:30.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mor444[/127.124.226.254:55931] logged in with entity id 65072 at (11.392128905901885, 59.0, 520.514059205103)
+[24Apr2025 04:37:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 joined the game
+[24Apr2025 04:37:30.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [How'd You Get This?]
+[24Apr2025 04:37:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Apothic Affixes]
+[24Apr2025 04:37:30.437] [Server thread/INFO] [Jade/]: Syncing config to mor444 (0e0de018-b2ed-3691-b265-6e9792990804)
+[24Apr2025 04:37:50.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24Apr2025 04:38:02.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mor444 (18)
+[24Apr2025 04:38:02.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mor444
+[24Apr2025 04:38:08.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Apr2025 04:38:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 was shot by Skeleton
+[24Apr2025 04:38:10.562] [Server thread/INFO] [tombstone/]: The player Edlynne1 has successfully been saved
+[24Apr2025 04:38:13.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 04:38:14.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 04:38:14.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mor444 (0e0de018-b2ed-3691-b265-6e9792990804) successfully connected to voice chat
+[24Apr2025 04:38:20.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has reached the goal [Worthy Equipment]
+[24Apr2025 04:38:26.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Apr2025 04:38:43.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[24Apr2025 04:39:00.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[24Apr2025 04:39:20.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Apr2025 04:39:42.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Apr2025 04:39:58.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 lost connection: Disconnected
+[24Apr2025 04:39:58.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 left the game
+[24Apr2025 04:39:58.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Clearson06
+[24Apr2025 04:40:30.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mor444 lost connection: Timed out
+[24Apr2025 04:40:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 left the game
+[24Apr2025 04:40:30.877] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mor444
+[24Apr2025 04:40:59.546] [ForkJoinPool.commonPool-worker-43/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 04:40:59.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mor444[/127.124.226.254:51949] logged in with entity id 67465 at (27.696899443786208, 43.0, 519.4064523854702)
+[24Apr2025 04:40:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 joined the game
+[24Apr2025 04:40:59.626] [Server thread/INFO] [Jade/]: Syncing config to mor444 (0e0de018-b2ed-3691-b265-6e9792990804)
+[24Apr2025 04:40:59.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mor444 (18)
+[24Apr2025 04:40:59.919] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mor444
+[24Apr2025 04:41:24.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 04:41:25.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e0de018-b2ed-3691-b265-6e9792990804
+[24Apr2025 04:41:25.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mor444 (0e0de018-b2ed-3691-b265-6e9792990804) successfully connected to voice chat
+[24Apr2025 04:41:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <o8h_msmc_jw5> 31 69 183
+[24Apr2025 04:42:13.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [A Seedy Place]
