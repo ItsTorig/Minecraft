@@ -2479,3 +2479,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 05:12:38.231] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
 [24Apr2025 05:12:38.238] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
 [24Apr2025 05:12:54.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Funeral Theft]
+[24Apr2025 05:13:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Isn't It Iron Pick]
+[24Apr2025 05:16:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [Best Friends Forever]
+[24Apr2025 05:18:39.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Rebecca the Ninja'/97322, l='ServerLevel[world]', x=1137.50, y=54.00, z=241.24] died: Rebecca the Ninja was slain by Wolf
+[24Apr2025 05:23:13.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Not Today, Thank You]
+[24Apr2025 05:23:35.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was shot by Honeyed Archer
+[24Apr2025 05:23:35.272] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Torig10 with unique ID travelersbackpack.standard_24.04.2025-05.23.35.dat
+[24Apr2025 05:23:35.277] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
+[24Apr2025 05:23:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was blown up by Creeper
+[24Apr2025 05:23:54.112] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.23.54.dat
+[24Apr2025 05:23:54.144] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 05:23:54.273] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 05:23:54.273] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[24Apr2025 05:23:54.273] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 05:23:54.273] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 05:23:54.273] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[24Apr2025 05:24:27.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [A Strange Grave Dust]
+[24Apr2025 05:25:01.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was shot by Skeleton
+[24Apr2025 05:25:01.473] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.25.01.dat
+[24Apr2025 05:25:01.478] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 05:26:35.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [How'd You Get This?]
+[24Apr2025 05:27:31.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104838, l='ServerLevel[world]', x=729.50, y=34.00, z=23.50]
+[24Apr2025 05:27:31.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104839, l='ServerLevel[world]', x=729.50, y=33.00, z=23.50]
+[24Apr2025 05:27:33.806] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104859, l='ServerLevel[world]', x=734.50, y=34.00, z=20.50]
+[24Apr2025 05:27:37.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104928, l='ServerLevel[world]', x=731.50, y=30.00, z=24.50]
+[24Apr2025 05:27:37.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104929, l='ServerLevel[world]', x=729.50, y=30.00, z=25.50]
+[24Apr2025 05:27:37.715] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104930, l='ServerLevel[world]', x=732.50, y=30.00, z=25.50]
+[24Apr2025 05:27:42.707] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/104998, l='ServerLevel[world]', x=731.50, y=21.00, z=30.50]
+[24Apr2025 05:27:47.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/105025, l='ServerLevel[world]', x=734.50, y=34.00, z=20.50]
+[24Apr2025 05:29:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ was doomed to fall by Zombie
+[24Apr2025 05:29:02.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _BandoWasHere_ with unique ID travelersbackpack.iron_24.04.2025-05.29.02.dat
+[24Apr2025 05:29:02.889] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
+[24Apr2025 05:29:35.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 has made the advancement [How'd You Get This?]

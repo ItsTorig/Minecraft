@@ -2689,74 +2689,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-24 05:12:43 +0000",
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
@@ -2772,6 +2771,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-04-24 05:24:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-24 05:09:37 +0000"
@@ -2781,6 +2786,12 @@
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-04-24 05:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 05:24:01 +0000"
     },
     "done": true
   },

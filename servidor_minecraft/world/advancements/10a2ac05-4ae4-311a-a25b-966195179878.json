@@ -73,11 +73,13 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-04-24 05:16:11 +0000",
       "shrubland": "2025-04-24 03:12:21 +0000",
       "fen": "2025-04-24 03:57:48 +0000",
       "bayou": "2025-04-24 03:22:27 +0000",
       "autumnal_maple_forest": "2025-04-24 04:45:45 +0000",
       "muddy_river": "2025-04-24 04:45:56 +0000",
+      "redstone_caves": "2025-04-24 05:22:00 +0000",
       "maple_forest": "2025-04-24 03:28:27 +0000",
       "boreal_forest": "2025-04-24 04:52:22 +0000",
       "towering_cliffs": "2025-04-24 03:16:51 +0000",
@@ -88,6 +90,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-04-24 05:16:11 +0000",
       "shrubland": "2025-04-24 03:12:21 +0000",
       "fen": "2025-04-24 03:57:48 +0000",
       "bayou": "2025-04-24 03:22:27 +0000",
@@ -1121,7 +1124,10 @@
     "criteria": {
       "minecraft:taiga": "2025-04-24 04:54:06 +0000",
       "minecraft:river": "2025-04-24 03:33:08 +0000",
-      "minecraft:forest": "2025-04-24 04:46:00 +0000"
+      "minecraft:dripstone_caves": "2025-04-24 05:21:30 +0000",
+      "minecraft:forest": "2025-04-24 04:46:00 +0000",
+      "minecraft:meadow": "2025-04-24 05:22:12 +0000",
+      "minecraft:plains": "2025-04-24 05:16:50 +0000"
     },
     "done": false
   },
@@ -1332,6 +1338,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-04-24 04:55:26 +0000",
+      "cooked_beef": "2025-04-24 05:28:52 +0000",
       "baked_potato": "2025-04-24 03:35:12 +0000",
       "bread": "2025-04-24 04:43:32 +0000",
       "rotten_flesh": "2025-04-24 05:07:54 +0000",
@@ -1358,6 +1365,7 @@
       "minecraft:spider": "2025-04-24 04:32:51 +0000",
       "minecraft:creeper": "2025-04-24 03:42:32 +0000",
       "minecraft:witch": "2025-04-24 04:03:34 +0000",
+      "minecraft:husk": "2025-04-24 05:18:39 +0000",
       "minecraft:cave_spider": "2025-04-24 04:03:41 +0000",
       "minecraft:zombie": "2025-04-24 03:41:41 +0000",
       "minecraft:zombie_villager": "2025-04-24 04:35:11 +0000"
@@ -2807,73 +2815,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:12:08 +0000"
+      "log_spam_fixer": "2025-04-24 05:32:08 +0000"
     },
     "done": false
   },
@@ -2882,6 +2890,24 @@
       "has_item": "2025-04-24 05:04:44 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-24 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-24 05:16:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-04-24 05:22:00 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
     "criteria": {
@@ -2898,6 +2924,12 @@
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 05:15:39 +0000"
     },
     "done": true
   },
@@ -2937,6 +2969,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-24 05:22:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-24 05:16:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-04-24 05:04:15 +0000"
@@ -2958,6 +3002,18 @@
   "regions_unexplored:recipes/redstone/larch_fence_gate": {
     "criteria": {
       "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-04-24 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-04-24 05:16:17 +0000"
     },
     "done": true
   },
@@ -2988,6 +3044,12 @@
   "regions_unexplored:recipes/decorations/larch_sign": {
     "criteria": {
       "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-04-24 05:29:35 +0000"
     },
     "done": true
   },
