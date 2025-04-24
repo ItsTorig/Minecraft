@@ -74,14 +74,24 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-04-24 01:58:04 +0000",
-      "towering_cliffs": "2025-04-24 02:07:11 +0000"
+      "fen": "2025-04-24 02:54:24 +0000",
+      "bayou": "2025-04-24 02:54:45 +0000",
+      "autumnal_maple_forest": "2025-04-24 02:54:04 +0000",
+      "maple_forest": "2025-04-24 02:54:23 +0000",
+      "towering_cliffs": "2025-04-24 02:07:11 +0000",
+      "cold_river": "2025-04-24 02:54:14 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-04-24 01:58:04 +0000",
-      "towering_cliffs": "2025-04-24 02:07:11 +0000"
+      "fen": "2025-04-24 02:54:24 +0000",
+      "bayou": "2025-04-24 02:54:45 +0000",
+      "autumnal_maple_forest": "2025-04-24 02:54:04 +0000",
+      "maple_forest": "2025-04-24 02:54:23 +0000",
+      "towering_cliffs": "2025-04-24 02:07:11 +0000",
+      "cold_river": "2025-04-24 02:54:14 +0000"
     },
     "done": false
   },
@@ -1597,9 +1607,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:51:52 +0000"
     },
     "done": true
   },
@@ -1618,6 +1658,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
     },
     "done": true
   },
@@ -1651,9 +1697,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:51:52 +0000"
     },
     "done": true
   },
@@ -1666,6 +1736,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-24 02:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
     },
     "done": true
   },
@@ -1706,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
@@ -1715,6 +1797,12 @@
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2025-04-24 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-24 02:51:52 +0000"
     },
     "done": true
   },
@@ -1787,6 +1875,12 @@
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-24 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:51:52 +0000"
     },
     "done": true
   },

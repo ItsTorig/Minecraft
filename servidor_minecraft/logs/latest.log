@@ -1277,3 +1277,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 02:49:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Apr2025 02:49:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Say no<--[HERE]
 [24Apr2025 02:49:26.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no
+[24Apr2025 02:54:29.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Torig10[/127.2.182.222:50741] logged in with entity id 4112 at (98.69999998807907, 69.0, -10.699999988079071)
+[24Apr2025 02:54:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 joined the game
+[24Apr2025 02:54:29.681] [Server thread/INFO] [Jade/]: Syncing config to Torig10 (efdca156-5ed8-384c-860e-49963310e251)
+[24Apr2025 02:54:31.363] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Torig10 (18)
+[24Apr2025 02:54:31.364] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Torig10
+[24Apr2025 02:54:33.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> torig
+[24Apr2025 02:54:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> como se hace el mapa
+[24Apr2025 02:54:39.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player efdca156-5ed8-384c-860e-49963310e251
+[24Apr2025 02:54:40.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player efdca156-5ed8-384c-860e-49963310e251
+[24Apr2025 02:54:40.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Torig10 (efdca156-5ed8-384c-860e-49963310e251) successfully connected to voice chat
+[24Apr2025 02:55:00.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> escribe atlas
+[24Apr2025 02:55:06.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> en la barra de busqueda
+[24Apr2025 02:55:09.734] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 02:55:09.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElAkakali[/127.145.101.247:58013] logged in with entity id 4417 at (159.31803726578923, 71.9375, 41.55888592851774)
+[24Apr2025 02:55:09.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali joined the game
+[24Apr2025 02:55:09.889] [Server thread/INFO] [Jade/]: Syncing config to ElAkakali (c3be4512-043b-3a98-8589-7936244c6859)
+[24Apr2025 02:55:09.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> atlas
+[24Apr2025 02:55:11.276] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElAkakali (18)
+[24Apr2025 02:55:11.277] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElAkakali
+[24Apr2025 02:55:13.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> si
+[24Apr2025 02:55:21.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3be4512-043b-3a98-8589-7936244c6859
+[24Apr2025 02:55:22.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3be4512-043b-3a98-8589-7936244c6859
+[24Apr2025 02:55:22.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElAkakali (c3be4512-043b-3a98-8589-7936244c6859) successfully connected to voice chat
+[24Apr2025 02:55:24.656] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[24Apr2025 02:55:24.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Edlynne1[/127.27.210.132:51283] logged in with entity id 4511 at (3.5, 65.0, 6.5)
+[24Apr2025 02:55:24.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 joined the game
+[24Apr2025 02:55:24.803] [Server thread/INFO] [Jade/]: Syncing config to Edlynne1 (5859f988-fa7a-33a5-9c28-10d7eeb31539)
+[24Apr2025 02:55:25.712] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Edlynne1 (18)
+[24Apr2025 02:55:25.712] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Edlynne1
+[24Apr2025 02:55:34.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5859f988-fa7a-33a5-9c28-10d7eeb31539
+[24Apr2025 02:55:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has made the advancement [Stone Age]
+[24Apr2025 02:55:35.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5859f988-fa7a-33a5-9c28-10d7eeb31539
+[24Apr2025 02:55:35.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Edlynne1 (5859f988-fa7a-33a5-9c28-10d7eeb31539) successfully connected to voice chat
+[24Apr2025 02:55:44.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=66, z=5}
+[24Apr2025 02:55:54.254] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24Apr2025 02:56:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[24Apr2025 02:56:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[24Apr2025 02:57:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [Far From Perfect]
+[24Apr2025 02:57:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ has made the advancement [Not a Diamond]
+[24Apr2025 02:58:10.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joker912[/127.175.149.255:33789] logged in with entity id 6038 at (-1.5, 67.0, 8.5)
+[24Apr2025 02:58:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 joined the game
+[24Apr2025 02:58:10.902] [Server thread/INFO] [Jade/]: Syncing config to Joker912 (3c1839b6-d562-33ad-8cb2-d095bba40e5a)
+[24Apr2025 02:58:11.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Joker912 (18)
+[24Apr2025 02:58:11.940] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Joker912
+[24Apr2025 02:58:23.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> ola muchacho
+[24Apr2025 02:58:24.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3c1839b6-d562-33ad-8cb2-d095bba40e5a
+[24Apr2025 02:58:25.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3c1839b6-d562-33ad-8cb2-d095bba40e5a
+[24Apr2025 02:58:25.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Joker912 (3c1839b6-d562-33ad-8cb2-d095bba40e5a) successfully connected to voice chat
+[24Apr2025 02:58:29.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElAkakali> ola muchacha
+[24Apr2025 02:58:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> HOLA
+[24Apr2025 02:59:30.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> ziri
+[24Apr2025 02:59:33.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> as de dia
+[24Apr2025 03:00:16.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joker912> MARIAAA
+[24Apr2025 03:00:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Clearson06> q pasa con maria=?ç
+[24Apr2025 03:00:36.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [Alex's Mobs]
+[24Apr2025 03:00:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 has made the advancement [Monster Hunter]
+[24Apr2025 03:00:55.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 was slain by Zombie
+[24Apr2025 03:00:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [Your First Grave]
+[24Apr2025 03:00:55.572] [Server thread/INFO] [tombstone/]: The player Joker912 has successfully been saved
+[24Apr2025 03:00:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joker912 has made the advancement [The Most Useful Key]
+[24Apr2025 03:00:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 was shot by Skeleton
+[24Apr2025 03:00:58.901] [Server thread/INFO] [tombstone/]: The player Torig10 has successfully been saved
