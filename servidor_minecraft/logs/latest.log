@@ -2547,3 +2547,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Apr2025 05:48:38.831] [Server thread/INFO] [tombstone/]: The player _BandoWasHere_ has successfully been saved
 [24Apr2025 05:48:58.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/118855, l='ServerLevel[world]', x=970.25, y=69.00, z=136.23] died: Undead Knight was slain by o8h_msmc_jw5
 [24Apr2025 05:49:51.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Edlynne1> 31 69 183
+[24Apr2025 05:58:18.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Edlynne1 lost connection: Disconnected
+[24Apr2025 05:58:18.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 left the game
+[24Apr2025 05:58:18.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Edlynne1
+[24Apr2025 05:58:20.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: o8h_msmc_jw5 lost connection: Disconnected
+[24Apr2025 05:58:20.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 left the game
+[24Apr2025 05:58:20.260] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client o8h_msmc_jw5
