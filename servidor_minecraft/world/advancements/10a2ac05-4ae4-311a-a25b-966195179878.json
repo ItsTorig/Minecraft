@@ -3480,9 +3480,21 @@
     },
     "done": true
   },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-04-25 04:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-04-25 04:13:18 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-04-25 04:49:05 +0000"
     },
     "done": true
   },
@@ -3507,6 +3519,30 @@
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2025-04-25 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-04-25 04:53:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_item": "2025-04-25 05:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-04-25 04:59:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-04-25 04:58:44 +0000"
     },
     "done": true
   },

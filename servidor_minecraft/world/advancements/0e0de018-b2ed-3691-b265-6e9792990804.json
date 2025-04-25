@@ -2957,6 +2957,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-25 04:58:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-04-25 03:50:01 +0000"
@@ -2966,6 +2972,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-04-25 03:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-25 04:48:17 +0000"
     },
     "done": true
   },
@@ -2990,6 +3002,12 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-25 03:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-25 04:57:57 +0000"
     },
     "done": true
   },
@@ -3170,6 +3188,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-25 03:40:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-04-25 04:49:07 +0000"
     },
     "done": true
   },
