@@ -1073,6 +1073,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-24 04:00:42 +0000",
       "minecraft:spider": "2025-04-24 04:31:44 +0000",
+      "minecraft:witch": "2025-04-25 03:21:35 +0000",
       "minecraft:zombie": "2025-04-24 04:03:46 +0000"
     },
     "done": false
@@ -2535,6 +2536,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-25 03:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
@@ -2607,6 +2614,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-04-25 03:23:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-04-25 03:13:41 +0000"
@@ -2622,6 +2635,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-04-25 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-25 03:23:45 +0000"
     },
     "done": true
   },
@@ -2721,9 +2740,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-25 03:23:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-25 03:20:14 +0000"
     },
     "done": true
   },
