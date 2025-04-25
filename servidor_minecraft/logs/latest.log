@@ -2201,3 +2201,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 06:04:33.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Clearson06
 [25Apr2025 06:05:13.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/153278, l='ServerLevel[world]', x=-548.13, y=61.05, z=-2085.70] died, message: 'Unemployed drowned'
 [25Apr2025 06:09:35.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Apr2025 06:11:43.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[25Apr2025 06:12:26.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mor444 lost connection: Disconnected
+[25Apr2025 06:12:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 left the game
+[25Apr2025 06:12:26.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mor444
+[25Apr2025 06:13:16.327] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Apr2025 06:13:16.327] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Apr2025 06:13:53.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Knowledge of Death]
+[25Apr2025 06:13:53.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Funeral Theft]
+[25Apr2025 06:14:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Knowledge raises the soul]
+[25Apr2025 06:17:59.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Disconnected
+[25Apr2025 06:17:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
+[25Apr2025 06:17:59.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
