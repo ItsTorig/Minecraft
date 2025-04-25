@@ -76,6 +76,7 @@
       "shrubland": "2025-04-24 03:15:09 +0000",
       "bayou": "2025-04-24 03:55:57 +0000",
       "muddy_river": "2025-04-24 04:01:55 +0000",
+      "maple_forest": "2025-04-25 04:13:40 +0000",
       "boreal_forest": "2025-04-24 04:00:26 +0000",
       "towering_cliffs": "2025-04-24 03:22:13 +0000",
       "temperate_grove": "2025-04-24 03:59:09 +0000",
@@ -88,6 +89,7 @@
       "shrubland": "2025-04-24 03:15:09 +0000",
       "bayou": "2025-04-24 03:55:57 +0000",
       "muddy_river": "2025-04-24 04:01:55 +0000",
+      "maple_forest": "2025-04-25 04:13:40 +0000",
       "boreal_forest": "2025-04-24 04:00:26 +0000",
       "towering_cliffs": "2025-04-24 03:22:13 +0000",
       "temperate_grove": "2025-04-24 03:59:09 +0000",
@@ -1046,6 +1048,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-25 04:14:09 +0000",
       "bread": "2025-04-24 03:58:10 +0000",
       "rotten_flesh": "2025-04-24 04:52:59 +0000",
       "cooked_chicken": "2025-04-24 04:49:21 +0000"
@@ -1060,6 +1063,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-25 04:15:15 +0000",
       "minecraft:river": "2025-04-24 03:59:30 +0000",
       "minecraft:ocean": "2025-04-24 03:59:52 +0000"
     },

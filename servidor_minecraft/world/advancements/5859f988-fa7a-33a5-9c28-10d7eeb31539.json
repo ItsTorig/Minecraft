@@ -4264,6 +4264,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2025-04-25 04:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-04-25 04:08:48 +0000"
@@ -4345,6 +4351,12 @@
   "handcrafted:recipes/misc/cherry_table": {
     "criteria": {
       "has_cherry_table": "2025-04-25 04:08:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-04-25 04:13:29 +0000"
     },
     "done": true
   },
