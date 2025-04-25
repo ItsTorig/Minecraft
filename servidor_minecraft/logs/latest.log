@@ -2213,3 +2213,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 06:17:59.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Disconnected
 [25Apr2025 06:17:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
 [25Apr2025 06:17:59.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
+[25Apr2025 06:22:35.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Suit Up]
+[25Apr2025 06:24:00.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has reached the goal [Worthy Equipment]
+[25Apr2025 06:24:00.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Isn't It Iron Pick]
+[25Apr2025 06:28:03.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Ambush]
+[25Apr2025 06:29:46.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio has made the advancement [Take Aim]
+[25Apr2025 06:30:41.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cronotermio lost connection: Disconnected
+[25Apr2025 06:30:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cronotermio left the game
+[25Apr2025 06:30:41.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cronotermio
