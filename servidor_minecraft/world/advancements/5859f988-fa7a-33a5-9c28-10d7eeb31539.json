@@ -89,6 +89,7 @@
       "towering_cliffs": "2025-04-24 02:56:41 +0000",
       "temperate_grove": "2025-04-24 03:52:36 +0000",
       "cold_river": "2025-04-24 05:12:36 +0000",
+      "grassland": "2025-04-25 03:58:21 +0000",
       "gravel_beach": "2025-04-24 22:27:50 +0000",
       "redwoods": "2025-04-25 02:11:57 +0000",
       "golden_boreal_taiga": "2025-04-24 22:24:06 +0000",
@@ -113,6 +114,7 @@
       "towering_cliffs": "2025-04-24 02:56:41 +0000",
       "temperate_grove": "2025-04-24 03:52:36 +0000",
       "cold_river": "2025-04-24 05:12:36 +0000",
+      "grassland": "2025-04-25 03:58:21 +0000",
       "gravel_beach": "2025-04-24 22:27:50 +0000",
       "redwoods": "2025-04-25 02:11:57 +0000",
       "golden_boreal_taiga": "2025-04-24 22:24:06 +0000",
@@ -2343,6 +2345,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-24 04:54:05 +0000",
+      "minecraft:cherry_grove": "2025-04-25 03:50:41 +0000",
+      "minecraft:savanna_plateau": "2025-04-25 03:50:13 +0000",
       "minecraft:sparse_jungle": "2025-04-25 02:16:57 +0000",
       "minecraft:river": "2025-04-24 04:14:13 +0000",
       "minecraft:dripstone_caves": "2025-04-24 05:21:01 +0000",
@@ -2351,6 +2355,7 @@
       "minecraft:ocean": "2025-04-24 22:28:26 +0000",
       "minecraft:jungle": "2025-04-25 02:21:35 +0000",
       "minecraft:meadow": "2025-04-24 05:21:58 +0000",
+      "minecraft:savanna": "2025-04-25 03:49:46 +0000",
       "minecraft:plains": "2025-04-24 05:15:11 +0000"
     },
     "done": false
@@ -4237,6 +4242,48 @@
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-04-25 02:25:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-25 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-25 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-04-25 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-04-25 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-25 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-25 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-25 04:01:26 +0000"
     },
     "done": true
   },
