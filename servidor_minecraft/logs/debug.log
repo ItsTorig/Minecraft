@@ -24755,3 +24755,331 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 05:59:15.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6924ms or 138 ticks behind
 [25Apr2025 05:59:37.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6553ms or 131 ticks behind
 [25Apr2025 05:59:47.564] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[25Apr2025 05:59:59.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7021ms or 140 ticks behind
+[25Apr2025 06:00:07.602] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[25Apr2025 06:00:07.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[25Apr2025 06:00:07.628] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[25Apr2025 06:00:07.636] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[25Apr2025 06:00:07.644] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[25Apr2025 06:00:07.649] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[25Apr2025 06:00:07.651] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[25Apr2025 06:00:07.652] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[25Apr2025 06:00:07.654] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[25Apr2025 06:00:07.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[25Apr2025 06:00:07.656] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[25Apr2025 06:00:07.657] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[25Apr2025 06:00:07.657] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[25Apr2025 06:00:07.658] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[25Apr2025 06:00:07.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[25Apr2025 06:00:07.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_mage
+[25Apr2025 06:00:07.660] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Apr2025 06:00:14.454] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[25Apr2025 06:00:14.783] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/large_mushroom
+[25Apr2025 06:00:27.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12894ms or 257 ticks behind
+[25Apr2025 06:00:35.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _BandoWasHere_ lost connection: Disconnected
+[25Apr2025 06:00:35.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _BandoWasHere_ left the game
+[25Apr2025 06:00:35.704] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of _BandoWasHere_
+[25Apr2025 06:00:35.704] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _BandoWasHere_
+[25Apr2025 06:00:46.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4205ms or 84 ticks behind
+[25Apr2025 06:01:02.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[25Apr2025 06:01:02.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[25Apr2025 06:01:02.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[25Apr2025 06:01:02.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[25Apr2025 06:01:02.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[25Apr2025 06:01:02.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[25Apr2025 06:01:02.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_sorcerer_house
+[25Apr2025 06:01:02.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[25Apr2025 06:01:02.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[25Apr2025 06:01:02.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_red_house_1
+[25Apr2025 06:01:02.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[25Apr2025 06:01:02.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[25Apr2025 06:01:02.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[25Apr2025 06:01:02.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[25Apr2025 06:01:02.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[25Apr2025 06:01:02.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[25Apr2025 06:01:02.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[25Apr2025 06:01:02.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[25Apr2025 06:01:02.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_red_house_1
+[25Apr2025 06:01:02.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[25Apr2025 06:01:02.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_brown_house_1
+[25Apr2025 06:01:02.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[25Apr2025 06:01:03.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[25Apr2025 06:01:07.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Clearson06: {disabled=true, disconnected=false, uuid=3e951bfd-baa7-33d6-b77f-2e1b09874264, name=Clearson06, group=null}
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:advancement_sound_override
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: botania:brews
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[25Apr2025 06:01:15.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[25Apr2025 06:01:15.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 06:01:15.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 06:01:15.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 moved too quickly! 9.63681886147424,-1.3306033417796073,-5.484116077682302
+[25Apr2025 06:01:23.074] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[25Apr2025 06:01:25.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6904ms or 138 ticks behind
+[25Apr2025 06:01:40.193] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Clearson06: {disabled=false, disconnected=false, uuid=3e951bfd-baa7-33d6-b77f-2e1b09874264, name=Clearson06, group=null}
+[25Apr2025 06:01:44.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
+[25Apr2025 06:01:45.372] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector1
+[25Apr2025 06:01:45.377] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[25Apr2025 06:01:45.390] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector3
+[25Apr2025 06:01:45.396] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[25Apr2025 06:01:45.401] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle2
+[25Apr2025 06:01:45.406] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector4
+[25Apr2025 06:01:45.407] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector2
+[25Apr2025 06:01:45.442] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
+[25Apr2025 06:01:45.446] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[25Apr2025 06:01:45.452] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[25Apr2025 06:01:45.462] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/doorway
+[25Apr2025 06:01:45.471] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_tall
+[25Apr2025 06:01:45.478] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[25Apr2025 06:01:48.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Clearson06: {disabled=true, disconnected=false, uuid=3e951bfd-baa7-33d6-b77f-2e1b09874264, name=Clearson06, group=null}
+[25Apr2025 06:01:49.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/settlement_large
+[25Apr2025 06:01:49.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/villager/vagabond
+[25Apr2025 06:01:52.275] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25Apr2025 06:01:52.275] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25Apr2025 06:02:01.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/large_cart_1
+[25Apr2025 06:02:01.494] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Apr2025 06:02:01.494] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25Apr2025 06:02:01.495] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[25Apr2025 06:02:01.498] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[25Apr2025 06:02:01.498] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[25Apr2025 06:02:01.501] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[25Apr2025 06:02:01.502] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[25Apr2025 06:02:01.505] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[25Apr2025 06:02:01.506] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[25Apr2025 06:02:01.507] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[25Apr2025 06:02:01.550] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:other_decoration/lamp_chest is being run through DFU (hash 604848d8b3ae83c019017aaa392d1199ca2e896111242bb6c51a54df52e443ca), this will cause launch time delays
+[25Apr2025 06:02:05.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6592ms or 131 ticks behind
+[25Apr2025 06:02:10.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Clearson06: {disabled=false, disconnected=false, uuid=3e951bfd-baa7-33d6-b77f-2e1b09874264, name=Clearson06, group=null}
+[25Apr2025 06:02:14.834] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[25Apr2025 06:02:24.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3671ms or 73 ticks behind
+[25Apr2025 06:02:32.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2549, y=71, z=2949} BlockPos{x=-2550, y=72, z=2947}
+[25Apr2025 06:02:32.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2550, y=71, z=2949} BlockPos{x=-2550, y=72, z=2947}
+[25Apr2025 06:02:33.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2550, y=71, z=2950} BlockPos{x=-2550, y=72, z=2947}
+[25Apr2025 06:02:34.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2552, y=73, z=2950} BlockPos{x=-2552, y=72, z=2949}
+[25Apr2025 06:02:34.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2551, y=73, z=2949} BlockPos{x=-2552, y=72, z=2950}
+[25Apr2025 06:02:34.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2551, y=73, z=2949} BlockPos{x=-2552, y=72, z=2950}
+[25Apr2025 06:02:34.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2551, y=73, z=2949} BlockPos{x=-2552, y=72, z=2950}
+[25Apr2025 06:02:34.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2551, y=73, z=2949} BlockPos{x=-2552, y=72, z=2950}
+[25Apr2025 06:02:34.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2551, y=73, z=2949} BlockPos{x=-2552, y=72, z=2950}
+[25Apr2025 06:02:37.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2556, y=71, z=2949} BlockPos{x=-2554, y=72, z=2949}
+[25Apr2025 06:02:37.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2555, y=72, z=2951} BlockPos{x=-2556, y=72, z=2951}
+[25Apr2025 06:02:42.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2556, y=73, z=2952} BlockPos{x=-2555, y=73, z=2952}
+[25Apr2025 06:02:42.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2556, y=73, z=2952} BlockPos{x=-2555, y=73, z=2952}
+[25Apr2025 06:02:43.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2552, y=73, z=2951} BlockPos{x=-2556, y=72, z=2951}
+[25Apr2025 06:02:43.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2552, y=72, z=2951} BlockPos{x=-2556, y=72, z=2951}
+[25Apr2025 06:02:43.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2552, y=73, z=2952} BlockPos{x=-2556, y=72, z=2951}
+[25Apr2025 06:02:44.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[25Apr2025 06:02:51.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Apr2025 06:03:02.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Apr2025 06:03:19.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[25Apr2025 06:03:34.145] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/t1
+[25Apr2025 06:03:39.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4934ms or 98 ticks behind
+[25Apr2025 06:03:58.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[25Apr2025 06:04:04.771] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2265, y=61, z=3227}
+[25Apr2025 06:04:16.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[25Apr2025 06:04:33.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[25Apr2025 06:04:33.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Clearson06 lost connection: Disconnected
+[25Apr2025 06:04:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 left the game
+[25Apr2025 06:04:33.753] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Clearson06
+[25Apr2025 06:04:33.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Clearson06
+[25Apr2025 06:05:13.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/153278, l='ServerLevel[world]', x=-548.13, y=61.05, z=-2085.70] died, message: 'Unemployed drowned'
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:advancement_sound_override
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[25Apr2025 06:06:54.093] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: botania:brews
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[25Apr2025 06:06:54.094] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[25Apr2025 06:06:54.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 06:06:54.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 06:08:48.238] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_brown_house_1
+[25Apr2025 06:08:48.240] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/red_fishing_house
+[25Apr2025 06:08:48.242] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/red_sorcerer_house
+[25Apr2025 06:08:48.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[25Apr2025 06:08:48.245] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[25Apr2025 06:08:48.288] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_0 is being run through DFU (hash f4a1c04a06f046a307fad4edb28116ddcc7062a9acca30c9ab79ac5ad960f51f), this will cause launch time delays
+[25Apr2025 06:09:05.497] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_corner
+[25Apr2025 06:09:24.417] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table1
+[25Apr2025 06:09:35.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Apr2025 06:09:36.128] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/long1 is being run through DFU (hash 103fe9e31aeffc5276fe059a84f74bbf69f1f094801007df0ad3a53e9482d533), this will cause launch time delays
+[25Apr2025 06:09:36.138] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/short3 is being run through DFU (hash 981926055aa8609fbe538a812df05f7f3bc31fddaaa6cb8e8d7185826d888820), this will cause launch time delays
+[25Apr2025 06:09:36.145] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/long2 is being run through DFU (hash 8ebc8d15b204a17570a6aa390556ba35524fc2371108838fdf069ef31664b61c), this will cause launch time delays
+[25Apr2025 06:09:36.165] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/obelisk1
+[25Apr2025 06:09:36.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[25Apr2025 06:09:36.195] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/short2 is being run through DFU (hash 93bffc19d2f7467e05af86de06cc4ebe89ab32f7a19bf5ea8d8c6f4a069ac23d), this will cause launch time delays
+[25Apr2025 06:09:36.204] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/bend3 is being run through DFU (hash 0ae61e9741e555bd7c8f9e1f7ecb583b5bb9bc5060ce79419f926532933ea394), this will cause launch time delays
+[25Apr2025 06:09:36.208] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/short1 is being run through DFU (hash 0b000b24d46bb81580c55b5c1a81c76ea855bf48f68ca66d8d5cdf2ebf09656b), this will cause launch time delays
+[25Apr2025 06:09:36.212] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/bend2 is being run through DFU (hash 3b68481e70437e4c96826b857b948888b024aa53df43c95d7550ff693987e9ea), this will cause launch time delays
+[25Apr2025 06:09:36.217] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/connector/bend1 is being run through DFU (hash b070ed21babdf8495e43621fc0841a66b5ad93f3dec17121a43867e8f4dd857b), this will cause launch time delays
+[25Apr2025 06:09:36.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue1
+[25Apr2025 06:09:36.300] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[25Apr2025 06:09:36.311] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin5
+[25Apr2025 06:09:36.321] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pillar1
+[25Apr2025 06:09:36.334] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[25Apr2025 06:09:36.340] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[25Apr2025 06:09:36.350] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin4
+[25Apr2025 06:09:36.363] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
+[25Apr2025 06:09:36.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/fountain1
+[25Apr2025 06:09:36.430] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[25Apr2025 06:09:36.441] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pyramid1
+[25Apr2025 06:09:36.446] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/star1
+[25Apr2025 06:09:36.452] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[25Apr2025 06:09:36.517] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[25Apr2025 06:09:36.547] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table2
