@@ -1257,3 +1257,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 03:05:09.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player de0ecc8d-eb74-3d40-af98-3bc8c808c9b1
 [25Apr2025 03:05:10.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player de0ecc8d-eb74-3d40-af98-3bc8c808c9b1
 [25Apr2025 03:05:10.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Morningblues (de0ecc8d-eb74-3d40-af98-3bc8c808c9b1) successfully connected to voice chat
+[25Apr2025 03:11:58.861] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 03:11:58.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElAkakali[/127.145.101.247:34831] logged in with entity id 4329 at (-626.2381310677647, 95.0, -1143.2580184505562)
+[25Apr2025 03:11:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali joined the game
+[25Apr2025 03:11:59.082] [Server thread/INFO] [Jade/]: Syncing config to ElAkakali (c3be4512-043b-3a98-8589-7936244c6859)
+[25Apr2025 03:11:59.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[25Apr2025 03:12:02.825] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElAkakali (18)
+[25Apr2025 03:12:02.825] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElAkakali
+[25Apr2025 03:12:12.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3be4512-043b-3a98-8589-7936244c6859
+[25Apr2025 03:12:13.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3be4512-043b-3a98-8589-7936244c6859
+[25Apr2025 03:12:13.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElAkakali (c3be4512-043b-3a98-8589-7936244c6859) successfully connected to voice chat
+[25Apr2025 03:12:16.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[25Apr2025 03:14:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morningblues has made the advancement [Crawling in my Bark]
+[25Apr2025 03:14:12.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morningblues moved wrongly!
+[25Apr2025 03:14:13.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morningblues moved wrongly!
+[25Apr2025 03:14:14.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morningblues moved wrongly!
+[25Apr2025 03:14:15.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morningblues moved wrongly!
+[25Apr2025 03:14:15.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morningblues moved wrongly!
+[25Apr2025 03:15:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Adventurous Eater]
+[25Apr2025 03:15:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morningblues has made the advancement [Apothic Affixes]
+[25Apr2025 03:15:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morningblues has made the advancement [Imagination Forest]
+[25Apr2025 03:15:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morningblues has reached the goal [Worthy Equipment]
+[25Apr2025 03:17:13.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Crops of the Wild]
+[25Apr2025 03:20:01.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 was blown up by Creeper
+[25Apr2025 03:20:01.882] [Server thread/INFO] [tombstone/]: The player mor444 has successfully been saved
+[25Apr2025 03:20:05.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52ab8ff0[id=<null>,name=Gialotte,properties={},legacy=false] (/127.20.30.36:35927) lost connection: Disconnected
+[25Apr2025 03:21:28.248] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 03:21:28.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Clearson06[/127.96.34.32:35895] logged in with entity id 9177 at (-363.11250001192093, 65.25, 1143.699999988079)
+[25Apr2025 03:21:28.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Clearson06 joined the game
+[25Apr2025 03:21:28.558] [Server thread/INFO] [Jade/]: Syncing config to Clearson06 (3e951bfd-baa7-33d6-b77f-2e1b09874264)
+[25Apr2025 03:21:30.796] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Clearson06 (18)
+[25Apr2025 03:21:30.796] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Clearson06
+[25Apr2025 03:21:32.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Apr2025 03:21:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 has made the advancement [Ambush]
+[25Apr2025 03:21:53.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5916ms or 118 ticks behind
+[25Apr2025 03:21:53.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3e951bfd-baa7-33d6-b77f-2e1b09874264
+[25Apr2025 03:21:54.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3e951bfd-baa7-33d6-b77f-2e1b09874264
+[25Apr2025 03:21:54.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Clearson06 (3e951bfd-baa7-33d6-b77f-2e1b09874264) successfully connected to voice chat
+[25Apr2025 03:22:14.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6003ms or 120 ticks behind
