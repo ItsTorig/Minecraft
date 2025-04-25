@@ -2815,79 +2815,271 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "apotheosis:affix/gem": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "gem": "2025-04-24 05:02:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-04-24 05:02:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_item": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-04-24 05:04:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-04-24 05:04:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_item": "2025-04-24 05:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-24 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-24 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-24 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-24 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-24 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-04-24 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-24 05:16:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-04-24 05:22:00 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "has_pointed_dripstone": "2025-04-24 05:22:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "has_iron_axe": "2025-04-24 05:29:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "sword": "2025-04-24 05:29:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "killed_by": "2025-04-24 05:36:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "has_mutton": "2025-04-24 05:36:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "has_any_ingredient": "2025-04-24 05:36:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "has_mutton": "2025-04-24 05:36:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
+      "has_mutton": "2025-04-24 05:36:20 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 05:58:08 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-04-24 05:40:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-04-24 05:40:16 +0000"
     },
@@ -2899,21 +3091,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_pink_double": {
-    "criteria": {
-      "has_item": "2025-04-24 05:04:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
     },
     "done": true
   },
@@ -2929,27 +3109,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/aether_saddle": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-24 05:15:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
     },
     "done": true
   },
@@ -2959,45 +3121,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/slime_collector": {
-    "criteria": {
-      "sky": "2025-04-24 05:47:28 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-24 05:16:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "redstone_caves": "2025-04-24 05:22:00 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
-    "criteria": {
-      "has_item": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_door": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
     },
     "done": true
   },
@@ -3007,51 +3133,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-04-24 05:42:34 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-04-24 05:04:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-24 05:15:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_gloves": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_stairs": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-04-24 05:04:15 +0000"
     },
     "done": true
   },
@@ -3073,21 +3163,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-04-24 05:05:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
-    "criteria": {
-      "has_item": "2025-04-24 05:47:28 +0000"
     },
     "done": true
   },
@@ -3097,21 +3175,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_leggings_repairing": {
-    "criteria": {
-      "has_iron_leggings": "2025-04-24 05:45:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_button": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
     },
     "done": true
   },
@@ -3121,51 +3187,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-04-24 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-04-24 05:36:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-04-24 05:05:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue_double": {
-    "criteria": {
-      "has_item": "2025-04-24 05:53:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-04-24 05:36:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-24 05:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-04-24 05:22:43 +0000"
     },
     "done": true
   },
@@ -3181,45 +3205,15 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/magenta_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-04-24 05:45:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-04-24 05:36:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_black_double": {
-    "criteria": {
-      "has_item": "2025-04-24 05:45:38 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-04-24 05:16:17 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
-    "criteria": {
-      "has_item": "2025-04-24 05:47:28 +0000"
     },
     "done": true
   },
@@ -3241,87 +3235,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/berry_jam_jar": {
-    "criteria": {
-      "has_berry_jam_jar": "2025-04-24 05:04:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_slab": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/common/slime/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-24 05:47:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_trapdoor": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_fence_gate": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_axe_repairing": {
-    "criteria": {
-      "has_iron_axe": "2025-04-24 05:29:35 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-04-24 05:42:34 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_white": {
-    "criteria": {
-      "has_item": "2025-04-24 05:16:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-04-24 05:02:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2025-04-24 05:02:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_fence": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
     },
     "done": true
   },
@@ -3343,33 +3265,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_magenta": {
-    "criteria": {
-      "has_item": "2025-04-24 05:45:38 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/petal_black": {
     "criteria": {
       "has_item": "2025-04-24 05:42:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
-    "criteria": {
-      "has_item": "2025-04-24 05:40:16 +0000"
     },
     "done": true
   },
@@ -3421,18 +3325,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
-    "criteria": {
-      "has_item": "2025-04-24 05:47:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_sign": {
-    "criteria": {
-      "has_larch_planks": "2025-04-24 05:04:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
@@ -3451,39 +3343,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-04-24 05:29:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-04-24 05:42:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-04-24 05:36:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-04-24 05:40:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-24 05:42:34 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wolf": {
-    "criteria": {
-      "has_bone": "2025-04-24 05:05:10 +0000"
     },
     "done": true
   },
@@ -3499,15 +3367,75 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-04-24 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_item": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-04-24 05:45:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-04-24 05:47:28 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-04-24 05:47:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-04-24 05:47:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 05:47:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-24 05:47:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-24 05:47:28 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+  "botania:recipes/misc/petal_light_blue_double": {
     "criteria": {
-      "has_wool": "2025-04-24 05:42:34 +0000"
+      "has_item": "2025-04-24 05:53:40 +0000"
     },
     "done": true
   },

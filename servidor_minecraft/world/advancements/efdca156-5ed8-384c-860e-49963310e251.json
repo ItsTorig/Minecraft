@@ -714,6 +714,7 @@
       "bread": "2025-04-24 03:07:52 +0000",
       "rotten_flesh": "2025-04-24 03:52:53 +0000",
       "dried_kelp": "2025-04-24 03:35:13 +0000",
+      "melon_slice": "2025-04-25 03:32:19 +0000",
       "beetroot": "2025-04-24 04:07:41 +0000",
       "cooked_chicken": "2025-04-24 16:09:10 +0000",
       "cod": "2025-04-25 00:54:14 +0000",
@@ -6707,6 +6708,24 @@
   "ad_astra:recipes/misc/light_gray_flag": {
     "criteria": {
       "has_light_gray_flag": "2025-04-25 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-25 03:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-25 03:38:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-25 03:35:57 +0000"
     },
     "done": true
   },

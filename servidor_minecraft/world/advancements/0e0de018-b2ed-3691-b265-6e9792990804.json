@@ -1074,6 +1074,7 @@
       "minecraft:skeleton": "2025-04-24 04:00:42 +0000",
       "minecraft:spider": "2025-04-24 04:31:44 +0000",
       "minecraft:witch": "2025-04-25 03:21:35 +0000",
+      "minecraft:cave_spider": "2025-04-25 03:33:46 +0000",
       "minecraft:zombie": "2025-04-24 04:03:46 +0000"
     },
     "done": false
@@ -2452,6 +2453,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-04-25 03:13:41 +0000"
@@ -2464,15 +2471,45 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-04-25 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-25 03:38:10 +0000"
     },
     "done": true
   },
@@ -2487,6 +2524,12 @@
       "has_golden_leggings": "2025-04-25 03:03:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
@@ -2512,6 +2555,24 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-25 03:38:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-04-25 03:13:41 +0000"
@@ -2523,6 +2584,12 @@
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/altimeter": {
     "criteria": {
@@ -2608,6 +2675,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
@@ -2635,6 +2708,18 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-04-25 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-25 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-04-25 03:39:48 +0000"
     },
     "done": true
   },
@@ -2698,6 +2783,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
@@ -2725,6 +2816,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-25 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-25 03:39:44 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-04-25 03:38:10 +0000"
     },
     "done": true
   },

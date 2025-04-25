@@ -1334,3 +1334,98 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Apr2025 03:31:35.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8902ms or 178 ticks behind
 [25Apr2025 03:31:58.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8160ms or 163 ticks behind
 [25Apr2025 03:32:25.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12430ms or 248 ticks behind
+[25Apr2025 03:32:49.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8741ms or 174 ticks behind
+[25Apr2025 03:33:16.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11905ms or 238 ticks behind
+[25Apr2025 03:33:38.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7421ms or 148 ticks behind
+[25Apr2025 03:34:00.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7113ms or 142 ticks behind
+[25Apr2025 03:34:02.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Torig10> hay voice chat
+[25Apr2025 03:34:24.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9129ms or 182 ticks behind
+[25Apr2025 03:34:46.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6855ms or 137 ticks behind
+[25Apr2025 03:35:06.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4590ms or 91 ticks behind
+[25Apr2025 03:35:07.099] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 03:35:07.100] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[25Apr2025 03:35:07.100] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 03:35:07.100] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 03:35:07.100] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[25Apr2025 03:35:10.505] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 03:35:10.506] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[25Apr2025 03:35:10.506] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 03:35:10.506] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 03:35:10.506] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[25Apr2025 03:35:16.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Torig10 lost connection: Disconnected
+[25Apr2025 03:35:16.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 left the game
+[25Apr2025 03:35:16.128] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Torig10
+[25Apr2025 03:35:20.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Torig10[/127.2.182.222:58783] logged in with entity id 21390 at (-606.9127731103434, 73.0, -465.4793624594686)
+[25Apr2025 03:35:20.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 joined the game
+[25Apr2025 03:35:20.975] [Server thread/INFO] [Jade/]: Syncing config to Torig10 (efdca156-5ed8-384c-860e-49963310e251)
+[25Apr2025 03:35:22.242] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Torig10 (18)
+[25Apr2025 03:35:22.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Torig10
+[25Apr2025 03:35:25.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3888ms or 77 ticks behind
+[25Apr2025 03:35:27.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player efdca156-5ed8-384c-860e-49963310e251
+[25Apr2025 03:35:28.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player efdca156-5ed8-384c-860e-49963310e251
+[25Apr2025 03:35:28.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Torig10 (efdca156-5ed8-384c-860e-49963310e251) successfully connected to voice chat
+[25Apr2025 03:35:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElAkakali was slain by Enderman
+[25Apr2025 03:35:38.793] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElAkakali with unique ID travelersbackpack.standard_25.04.2025-03.35.38.dat
+[25Apr2025 03:35:38.822] [Server thread/INFO] [tombstone/]: The player ElAkakali has successfully been saved
+[25Apr2025 03:35:38.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[25Apr2025 03:35:38.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[25Apr2025 03:35:38.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[25Apr2025 03:35:38.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[25Apr2025 03:35:38.981] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[25Apr2025 03:35:44.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
+[25Apr2025 03:35:58.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1081, l='ServerLevel[world]', x=149.46, y=73.94, z=31.86] died, message: 'Fisherman was slain by Zombie'
+[25Apr2025 03:36:04.216] [ForkJoinPool.commonPool-worker-12/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 03:36:04.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Edlynne1[/127.27.210.132:39877] logged in with entity id 22246 at (-390.92500001192093, 63.0, 1133.594571668541)
+[25Apr2025 03:36:04.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Edlynne1 joined the game
+[25Apr2025 03:36:04.369] [Server thread/INFO] [Jade/]: Syncing config to Edlynne1 (5859f988-fa7a-33a5-9c28-10d7eeb31539)
+[25Apr2025 03:36:04.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4691ms or 93 ticks behind
+[25Apr2025 03:36:05.377] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Edlynne1 (18)
+[25Apr2025 03:36:05.377] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Edlynne1
+[25Apr2025 03:36:14.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5859f988-fa7a-33a5-9c28-10d7eeb31539
+[25Apr2025 03:36:15.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5859f988-fa7a-33a5-9c28-10d7eeb31539
+[25Apr2025 03:36:15.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Edlynne1 (5859f988-fa7a-33a5-9c28-10d7eeb31539) successfully connected to voice chat
+[25Apr2025 03:36:25.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
+[25Apr2025 03:36:25.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Creative Mode]
+[25Apr2025 03:36:37.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Set own game mode to Survival Mode]
+[25Apr2025 03:36:47.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7115ms or 142 ticks behind
+[25Apr2025 03:37:09.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7038ms or 140 ticks behind
+[25Apr2025 03:37:35.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10875ms or 217 ticks behind
+[25Apr2025 03:37:41.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6878d45a[id=<null>,name=o8h_msmc_jw5,properties={},legacy=false] (/127.188.111.82:41191) lost connection: Disconnected
+[25Apr2025 03:38:00.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10690ms or 213 ticks behind
+[25Apr2025 03:38:23.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8048ms or 160 ticks behind
+[25Apr2025 03:38:39.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: o8h_msmc_jw5[/127.188.111.82:57531] logged in with entity id 24455 at (27.751091434612427, 69.0, 184.9211876289714)
+[25Apr2025 03:38:39.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o8h_msmc_jw5 joined the game
+[25Apr2025 03:38:39.875] [Server thread/INFO] [Jade/]: Syncing config to o8h_msmc_jw5 (10a2ac05-4ae4-311a-a25b-966195179878)
+[25Apr2025 03:38:42.769] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of o8h_msmc_jw5 (18)
+[25Apr2025 03:38:42.769] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to o8h_msmc_jw5
+[25Apr2025 03:38:47.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8863ms or 177 ticks behind
+[25Apr2025 03:39:02.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 10a2ac05-4ae4-311a-a25b-966195179878
+[25Apr2025 03:39:03.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 10a2ac05-4ae4-311a-a25b-966195179878
+[25Apr2025 03:39:03.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player o8h_msmc_jw5 (10a2ac05-4ae4-311a-a25b-966195179878) successfully connected to voice chat
+[25Apr2025 03:39:12.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9692ms or 193 ticks behind
+[25Apr2025 03:39:37.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9900ms or 198 ticks behind
+[25Apr2025 03:40:04.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12219ms or 244 ticks behind
+[25Apr2025 03:40:11.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mor444 lost connection: Disconnected
+[25Apr2025 03:40:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 left the game
+[25Apr2025 03:40:11.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mor444
+[25Apr2025 03:40:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Torig10 has reached the goal [Quaint Scribe]
+[25Apr2025 03:40:19.212] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Apr2025 03:40:19.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mor444[/127.124.226.254:46153] logged in with entity id 27226 at (161.4526514025838, 1.0, 564.3382223588444)
+[25Apr2025 03:40:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mor444 joined the game
+[25Apr2025 03:40:19.330] [Server thread/INFO] [Jade/]: Syncing config to mor444 (0e0de018-b2ed-3691-b265-6e9792990804)
+[25Apr2025 03:40:19.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mor444 (18)
+[25Apr2025 03:40:19.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mor444
+[25Apr2025 03:40:28.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8670ms or 173 ticks behind
+[25Apr2025 03:40:41.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0e0de018-b2ed-3691-b265-6e9792990804
+[25Apr2025 03:40:42.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0e0de018-b2ed-3691-b265-6e9792990804
+[25Apr2025 03:40:42.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player mor444 (0e0de018-b2ed-3691-b265-6e9792990804) successfully connected to voice chat
+[25Apr2025 03:40:52.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9224ms or 184 ticks behind
+[25Apr2025 03:41:17.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9990ms or 199 ticks behind
+[25Apr2025 03:41:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Edlynne1 to ElAkakali]
+[25Apr2025 03:41:41.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9094ms or 181 ticks behind
+[25Apr2025 03:42:05.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9549ms or 190 ticks behind
+[25Apr2025 03:42:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morningblues has made the advancement [Monster Hunter]
+[25Apr2025 03:42:29.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9133ms or 182 ticks behind
+[25Apr2025 03:42:31.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Torig10: Teleported Edlynne1 to o8h_msmc_jw5]
+[25Apr2025 03:42:54.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9095ms or 181 ticks behind
+[25Apr2025 03:43:17.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8556ms or 171 ticks behind
