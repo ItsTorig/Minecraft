@@ -5136,6 +5136,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-04-25 04:19:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-04-25 03:24:31 +0000"
@@ -5163,6 +5169,12 @@
   "tconstruct:recipes/brewing/common/slime/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-25 04:13:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-25 04:29:10 +0000"
     },
     "done": true
   },

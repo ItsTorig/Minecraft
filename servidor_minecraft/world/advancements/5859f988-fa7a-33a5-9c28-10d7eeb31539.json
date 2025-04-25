@@ -897,6 +897,7 @@
     "criteria": {
       "glow_berries": "2025-04-24 21:03:10 +0000",
       "sweet_berries": "2025-04-24 03:23:16 +0000",
+      "potato": "2025-04-25 04:20:41 +0000",
       "wheat": "2025-04-24 03:04:22 +0000"
     },
     "done": false
@@ -1456,6 +1457,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-04-25 04:30:56 +0000",
       "minecraft:cat": "2025-04-24 03:23:07 +0000"
     },
     "done": false
