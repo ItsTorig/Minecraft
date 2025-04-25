@@ -3439,5 +3439,17 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-25 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-04-25 03:41:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
